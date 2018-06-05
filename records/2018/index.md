@@ -1,6 +1,6 @@
 ---
 layout: topic
-title: "PyTorch Taipei 2018 讀書會資訊與連結整理"
+title: "PyTorch Taipei 2018 Spring: 讀書會資訊與連結整理"
 date: 2018-02-28
 modified: 2018-04-17
 tags: #[PyTorchTP, DL]

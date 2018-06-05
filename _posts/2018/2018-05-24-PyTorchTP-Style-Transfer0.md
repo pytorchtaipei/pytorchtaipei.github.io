@@ -23,12 +23,12 @@ fbcomments: true
 
 大家對Style Transfer這個詞可能很陌生，但應該很多人記得2016年在Apple Store和Google Play兩大平台皆奪下年度App的[Prisma](https://prisma-ai.com){:target="_blank"}，將照片轉換成畫作的功能大受歡迎，或者你也可能記得或甚至使用過[Facebook開發的real-time藝術畫風濾鏡](https://www.facebook.com/zuck/videos/10103204449698911/){:target="_blank"}。
 
-<img src="../../images/DL/StyleTransfer/prisma.png" class="center">
+<img src="../../images/articles/StyleTransfer/prisma.png" class="center">
 <p align="center"><i>Fig. 1. Prisma範例圖片(Source: <a href="https://www.facebook.com/getprisma"> Prisma FB fanpage</a> )</i> </p>
 
 Neural Transfer就是這種將畫作上的藝術風格移植到其他圖片上的技巧，而這周要介紹的論文實作便是這項技術的開山之作《[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576){:target="_blank"}》(2015年發布於arXiv，2016年發表於[CVPR](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html){:target="_blank"}上)，作者為來自德國University of Tübingen的計算神經科學學者[Leon A. Gatys](https://github.com/leongatys?tab=repositories){:target="_blank"}, Alexander S. Ecker, [Matthias Bethge](http://bethgelab.org/people/){:target="_blank"}，他們嘗試用CNN來實現這一項過去被認為是專屬於人類的技能並獲得廣大迴響，三人也憑此技術創立一家[公司](https://deepart.io){:target="_blank"}。
 
-<img src="../../images/PyTorchTP/StyleTransfer/process.png" class="center">
+<img src="../../images/articles/StyleTransfer/process.png" class="center">
 <p align="center"><i>Fig. 2. Style Transfer領域試圖將不同畫作風格融合進任意圖片中</i> </p>
 
 ## 2. How it works?
@@ -43,7 +43,7 @@ Neural Transfer就是這種將畫作上的藝術風格移植到其他圖片上�
 
 首先，我們要回憶一下CNN架構實際上做了哪些事情，2013年ImageNet冠軍[ZFNet論文](https://arxiv.org/pdf/1311.2901.pdf){:target="_blank"}(也是PyTorch Taipei第二周主題，可以參考士永社長提供之講解[資料](https://www.dropbox.com/s/rrgc205ffedims8/ZFNet_shape.pdf){:target="_blank"}與[影片](https://www.youtube.com/watch?v=e8m46iiBuzw){:target="_blank"})中提到，他們嘗試將每層中activation值最大的部分，還原出是在原圖上的哪個區塊，並發現較為淺層的捲積層捕捉到的只是單純的線條與顏色，然而越深層的捲積層捕捉到的會越趨一個完整的物件。而本篇論文就是**利用CNN架構能捕捉不同規模之特徵的特性，嘗試將不同的紋理與顏色融合到輸入圖中**。
 
-<p align="center"><img src="../../images/PyTorchTP/StyleTransfer/ZF.gif" width="400"></p>
+<p align="center"><img src="../../images/articles/StyleTransfer/ZF.gif" width="400"></p>
 <p align="center"><i>Fig. 3. ZFNet中各層捕捉到的特徵</i> </p>
 
 ### 2.1 Methods
@@ -106,21 +106,21 @@ $$ J_{style} = \sum_l \lambda^{[l]} J_{style}^{[l]} $$
 
 CVPR論文內的一張圖(點擊放大)可以概括說明整個流程:
 
-<p align="center"><a href="../../images/PyTorchTP/StyleTransfer/overall.png"><img src="../../images/PyTorchTP/StyleTransfer/overall.png" width="500"></a></p>
+<p align="center"><a href="../../images/articles/StyleTransfer/overall.png"><img src="../../images/PyTorchTP/StyleTransfer/overall.png" width="500"></a></p>
 <p align="center"><i>Fig. 7. Style Transfer 演算法流程</i> </p>
 
 ## 3. Result
 
 論文有展示一些調整參數的效果，這裡只是撿過來放而已。
 
-<p align="center"><a href="../../images/PyTorchTP/StyleTransfer/r0.png"><img src="../../images/PyTorchTP/StyleTransfer/r0.png" width="500"></a></p>
+<p align="center"><a href="../../images/articles/StyleTransfer/r0.png"><img src="../../images/PyTorchTP/StyleTransfer/r0.png" width="500"></a></p>
 <p align="center"><i>Fig. 8. 同一張內容圖施以不同風格之結果</i> </p>
 
 圖8的A為原圖，B~E為施加不同風格圖的結果，而其所合適之$\alpha / \beta$值也不同: B為$1 × 10^{−3}$, C為$8 × 10^{−4}$, D為$5 × 10^{−3}$, E和F為$5 × 10^{−4}$。
 
 <figure class="half">
-  <a href="../../images/PyTorchTP/StyleTransfer/r1.png"><img src="../../images/PyTorchTP/StyleTransfer/r1.png" height="600"></a>
-	<a href="../../images/PyTorchTP/StyleTransfer/r2.png"><img src="../../images/PyTorchTP/StyleTransfer/r2.png" height="600"></a>
+  <a href="../../images/PyTorchTP/StyleTransfer/r1.png"><img src="../../images/articles/StyleTransfer/r1.png" height="600"></a>
+	<a href="../../images/PyTorchTP/StyleTransfer/r2.png"><img src="../../images/articles/StyleTransfer/r2.png" height="600"></a>
 	<figcaption></figcaption>
 </figure>
 <p align="center"><i>Fig. 9. 不同參數之表現比較。</i> </p>
@@ -163,4 +163,4 @@ CVPR論文內的一張圖(點擊放大)可以概括說明整個流程:
   * [GitHub](https://github.com/ycjing/Neural-Style-Transfer-Papers){:target="_blank"}
   * 內有該領域相關論文整理:
 
-<p align="center"><a href="../../images/PyTorchTP/StyleTransfer/rev.png"><img src="../../images/PyTorchTP/StyleTransfer/rev.png" width="600"></a></p>
+<p align="center"><a href="../../images/articles/StyleTransfer/rev.png"><img src="../../images/articles/StyleTransfer/rev.png" width="600"></a></p>
