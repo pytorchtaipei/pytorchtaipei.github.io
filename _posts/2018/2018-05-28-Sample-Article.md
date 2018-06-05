@@ -6,7 +6,7 @@ modified: 2018-05-28
 author: Sample Author
 categories: articles
 description: "這只是篇範例文章 | PyTorch Taipei"
-tags: [PyTorchTP, deeplearning, 2018]
+tags: [PyTorchTP, deeplearning, y18]
 image:
   feature:
   teaser: articles/Sample/tn.png

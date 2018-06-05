@@ -6,7 +6,7 @@ modified: 2018-05-24
 author: Wei-Hsiang Wang
 categories: articles
 description: "Neural Style Transfer: 以CNN技術將藝術畫風移植到另一張圖中，含PyTorch & Tensorflow 範例程式碼 | PyTorch Taipei"
-tags: [PyTorchTP, deeplearning, 2018]
+tags: [PyTorchTP, deeplearning, y18]
 image:
   feature:
   teaser: articles/StyleTransfer/tn.png
@@ -23,7 +23,7 @@ fbcomments: true
 
 大家對Style Transfer這個詞可能很陌生，但應該很多人記得2016年在Apple Store和Google Play兩大平台皆奪下年度App的[Prisma](https://prisma-ai.com){:target="_blank"}，將照片轉換成畫作的功能大受歡迎，或者你也可能記得或甚至使用過[Facebook開發的real-time藝術畫風濾鏡](https://www.facebook.com/zuck/videos/10103204449698911/){:target="_blank"}。
 
-<img src="../../images/PyTorchTP/StyleTransfer/prisma.png" class="center">
+<img src="../../images/DL/StyleTransfer/prisma.png" class="center">
 <p align="center"><i>Fig. 1. Prisma範例圖片(Source: <a href="https://www.facebook.com/getprisma"> Prisma FB fanpage</a> )</i> </p>
 
 Neural Transfer就是這種將畫作上的藝術風格移植到其他圖片上的技巧，而這周要介紹的論文實作便是這項技術的開山之作《[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576){:target="_blank"}》(2015年發布於arXiv，2016年發表於[CVPR](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html){:target="_blank"}上)，作者為來自德國University of Tübingen的計算神經科學學者[Leon A. Gatys](https://github.com/leongatys?tab=repositories){:target="_blank"}, Alexander S. Ecker, [Matthias Bethge](http://bethgelab.org/people/){:target="_blank"}，他們嘗試用CNN來實現這一項過去被認為是專屬於人類的技能並獲得廣大迴響，三人也憑此技術創立一家[公司](https://deepart.io){:target="_blank"}。
