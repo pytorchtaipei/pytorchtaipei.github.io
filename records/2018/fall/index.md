@@ -1,6 +1,6 @@
 ---
 layout: topic
-title: "PyTorch Taipei 2018春季 (讀書會資訊與連結整理)"
+title: "PyTorch Taipei 2018秋季 (讀書會資訊與連結整理)"
 date: 2018-06-06
 modified: 2018-06-06
 tags: #[PyTorchTP, DL]
@@ -16,9 +16,9 @@ TopicShare: true
 ## 1. PyTorch Taipei 緣起
 
 [PyTorch Taiwan](https://www.facebook.com/groups/2027602154187130/){:target="_blank"}是[Marcel Wang](https://www.linkedin.com/in/marcel-wang-3a988b7a/){:target="_blank"}先生為促進台灣深度學習發展，在網路上號召成立的深度學習讀書會，
-<br>目前有[台北](http://hemingwang.blogspot.tw/2018/01/pytorchpytorch-taipei_20.html){:target="_blank"}、[新竹](http://hemingwang.blogspot.tw/2018/01/pytorchpytorch-hsinchu.html){:target="_blank"}和[台中](http://hemingwang.blogspot.tw/2018/04/pytorchpytorch-taichung_26.html){:target="_blank"}三個子分會。
+目前有[台北](http://hemingwang.blogspot.tw/2018/01/pytorchpytorch-taipei_20.html){:target="_blank"}、[新竹](http://hemingwang.blogspot.tw/2018/01/pytorchpytorch-hsinchu.html){:target="_blank"}和[台中](http://hemingwang.blogspot.tw/2018/04/pytorchpytorch-taichung_26.html){:target="_blank"}三個子分會。
 
-<img src="../../images/pytp1.jpg">
+<img src="../../../images/pytp1.jpg">
 
 2018.03.08 第一次讀書會(PC: [Eric Yang](https://www.facebook.com/profile.php?id=1561001417){:target="_blank"})
 
@@ -26,9 +26,8 @@ TopicShare: true
 
 讀書會2018年秋季以後之舉辦時間地點仍洽談中(預計仍是每周四晚上，地點為台大資工系德田館)，讀書會進行方式待徵完講者後也會再討論。
 
-若有興趣當講者，請先至[此文](https://www.facebook.com/groups/2027602154187130/permalink/2060273964253282/){:target="_blank"}留言，會有人將您加進Facebook的報告者聊天視窗，可以的話記得說明一下想報告下面進度表中的哪個題目(若有興趣的主題已經有講者也沒關係，我們希望每個主題都能有3~4人一起討論，列在下表的即為該次報告的負責人)。
-
-<br><br>
+若有興趣當講者，請先至[此文](https://www.facebook.com/groups/2027602154187130/permalink/2060273964253282/){:target="_blank"}留言，會有人將您加進Facebook的報告者聊天視窗，
+可以的話記得說明一下想報告下面進度表中的哪個題目。若有興趣的主題在下表中已經列有講者也沒關係，我們希望每個主題都能有多人一起討論，列在下表的即為該次報告的負責人。
 
 ## 3. 進度表
 
@@ -59,16 +58,16 @@ TopicShare: true
 
 | 主題                          | 講者              | 連結&備註
 |:-----------------------------:|:-----------------:| ------
-| YOLO v2&v3                    | 林家豪<br/>郭瑞申 | v2 [![][p]][Yv2p]{:target="_blank"}[![][p]][Yv2]{:target="_blank"} <br/>v3 [![][p]][Yv3p]{:target="_blank"}[![][p]][Yv3]{:target="_blank"}
-| Inception v2&v3               | 楊哲寧<br/>       | 希望至少再一位負責人(論文份量可能需要分兩周報告)
-| Gradient Descent and Momentum | 蔡皓璿            | 包含BGD, SGD, Mini-batch GD和NAG
+| YOLO v2&v3                    | 林家豪<br/>郭瑞申 | v2 [![][p]][Yv2p]{:target="_blank"} [![][p]][Yv2]{:target="_blank"} <br/>v3 [![][p]][Yv3p]{:target="_blank"} [![][p]][Yv3]{:target="_blank"}
+| Inception v2&v3               | 楊哲寧<br/>       | 希望至少再一位負責人<br/>(論文份量可能需要分兩周報告)
+| Gradient Descent and Momentum | 蔡皓璿            | BGD, SGD, Mini-batch GD, NAG
 | Adaptive Methods              | 王威翔            | AdaGrad, AdaDelta, RMSprop
 | Adaptive Method Plus Momentum | Rose Teng         | Adam, AdaMax
 | Improvements of Adam          | Eric Lin          | NAdam, AMSGrad
 | Batch Normalization           | Eric Lin          |
 | Layer Normalization           | 缺                |
 | Group Normalization           | 缺                |
-| weight decay                  | 缺                | [參考文章}(http://hemingwang.blogspot.com/2017/06/aiweight-decay.html){:target="_blank"}
+| weight decay                  | 缺                | [參考文章](http://hemingwang.blogspot.com/2017/06/aiweight-decay.html){:target="_blank"}
 | dropout                       | 缺                | 
 
 [p]: ../../images/icons/paper.png
