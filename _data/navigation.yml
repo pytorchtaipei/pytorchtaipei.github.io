@@ -1,15 +1,15 @@
 # Site navigation links
+- title: FB Group
+  url: https://www.facebook.com/groups/2027602154187130/
+  excerpt: ""
+  image: IOT-400x250.gif
+
 - title: Records
   url: /records/
   excerpt: ""
   image: IOT-400x250.gif
 
 - title: About
-  url: /about/
-  excerpt: ""
-  image: pytp_tn.jpg
-
-- title: FB Group
   url: /about/
   excerpt: ""
   image: pytp_tn.jpg

@@ -1,13 +1,13 @@
 ---
 layout: topic
-title: "PyTorch Taipei 2018 Spring: 讀書會資訊與連結整理"
+title: "PyTorch Taipei 2018春季 (讀書會資訊與連結整理)"
 date: 2018-02-28
 modified: 2018-04-17
 tags: #[PyTorchTP, DL]
 image:
   feature: pytorch-header.jpg
 fbcomments: yes
-description: "PyTorch Taiwan是Marcel Wang先生為促進台灣深度學習發展，在網路上號召成立的深度學習讀書會，目前有台北和新竹兩分會 | PyTorch Taipei"
+description: "PyTorch Taiwan是Marcel Wang先生為促進台灣深度學習發展，在網路上號召成立的深度學習讀書會，目前有台北、台中和新竹三分會 | PyTorch Taipei"
 TopicShare: true
 ---
 
@@ -22,7 +22,7 @@ TopicShare: true
 
 2018.03.08 第一次讀書會(PC: [Eric Yang](https://www.facebook.com/profile.php?id=1561001417){:target="_blank"})
 
-## 2. 台北讀書會資訊
+## 2. 讀書會資訊
 時間: 每週四19:00~21:00
 
 內容: 分兩部份進行，可隨時於[線上討論區](https://discord.gg/jMCVCbJ){:target="_blank"}發問。
