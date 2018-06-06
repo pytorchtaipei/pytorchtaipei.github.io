@@ -82,12 +82,12 @@ TopicShare: true
 | 4/12 | VGGNet<br>ResNet  | [![][p]][6]{:target="_blank"} [![][m]][27]{:target="_blank"} [![][v]][95]{:target="_blank"}<br> [![][p]][6.5]{:target="_blank"} [![][t]][tres]{:target="_blank"} [![][vt]][vres]{:target="_blank"} | 5/31 | SS        | [![][p]][12]{:target="_blank"} [      ][33]{:target="_blank"} [      ][89]{:target="_blank"} | 7/19 | SSD          | [![][p]][19]{:target="_blank"} [      ][40]{:target="_blank"} [      ][82]{:target="_blank"} [![][c]][cssd]{:target="_blank"}
 | 4/19 | SqueezeNet        | [![][p]][7]{:target="_blank"} [![][m]][28]{:target="_blank"} [![][v]][94]{:target="_blank"}<br> [![][c]][sqc]{:target="_blank"}                                                                    | 6/07 | FCN       | [![][p]][13]{:target="_blank"} [      ][34]{:target="_blank"} [      ][88]{:target="_blank"} | 另訂 | YOLO v2&v3   | v2[ ![][p]][24]{:target="_blank"} [![][c]][Yv2]{:target="_blank"}<br> v3[ ![][p]][25]{:target="_blank"}  [![][c]][Yv3]{:target="_blank"}
 
-[p]: ../../images/icons/paper.png
-[c]: ../../images/icons/coding.png
-[v]: ../../images/icons/video.png
-[t]: ../../images/icons/pytorch.png
-[vt]: ../../images/icons/video_t.png
-[m]: ../../images/icons/mt.png
+[p]: ../../../images/icons/paper.png
+[c]: ../../../images/icons/coding.png
+[v]: ../../../images/icons/video.png
+[t]: ../../../images/icons/pytorch.png
+[vt]: ../../../images/icons/video_t.png
+[m]: ../../../images/icons/mt.png
 
 <!-- LeNet -->
 [1]: http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf
@@ -231,6 +231,6 @@ TopicShare: true
 [DQNv]:https://www.youtube.com/watch?v=8YGuGBLLKq0
 
 [STp]: https://arxiv.org/abs/1508.06576
-[STt]: ../../articles/PyTorchTP-Style-Transfer/
+[STt]: ../../../articles/PyTorchTP-Style-Transfer/
 [STv]: https://www.youtube.com/watch?v=G3gd5jo5nJA
 [STd]: https://deepart.io
