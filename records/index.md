@@ -2,7 +2,7 @@
 layout: archive
 title: "讀書會紀錄"
 permalink: /records/
-date: 2014-05-30T11:39:03-04:00
+date: 2018-05-30T11:39:03-04:00
 modified:
 #excerpt: ""
 tags: []
