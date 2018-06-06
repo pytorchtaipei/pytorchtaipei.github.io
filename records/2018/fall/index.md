@@ -7,7 +7,7 @@ tags: #[PyTorchTP, DL]
 image:
   feature: pytorch-header.jpg
 fbcomments: yes
-description: "PyTorch Taiwan是Marcel Wang先生為促進台灣深度學習發展，在網路上號召成立的深度學習讀書會，目前有台北、台中和新竹三分會 | PyTorch Taipei"
+description: "PyTorch Taiwan是Marcel Wang先生為促進台灣深度學習發展，在網路上號召成立的深度學習讀書會，目前有台北、台中和新竹三個子分會 | PyTorch Taipei"
 TopicShare: true
 ---
 
@@ -16,7 +16,7 @@ TopicShare: true
 ## 1. PyTorch Taipei 緣起
 
 [PyTorch Taiwan](https://www.facebook.com/groups/2027602154187130/){:target="_blank"}是[Marcel Wang](https://www.linkedin.com/in/marcel-wang-3a988b7a/){:target="_blank"}先生為促進台灣深度學習發展，在網路上號召成立的深度學習讀書會，
-目前有[台北](http://hemingwang.blogspot.tw/2018/01/pytorchpytorch-taipei_20.html){:target="_blank"}、[新竹](http://hemingwang.blogspot.tw/2018/01/pytorchpytorch-hsinchu.html){:target="_blank"}和[台中](http://hemingwang.blogspot.tw/2018/04/pytorchpytorch-taichung_26.html){:target="_blank"}三個子分會。
+目前有[台北](http://hemingwang.blogspot.tw/2018/01/pytorchpytorch-taipei_20.html){:target="_blank"}、[新竹](http://hemingwang.blogspot.tw/2018/01/pytorchpytorch-hsinchu.html){:target="_blank"}和[台中](http://hemingwang.blogspot.tw/2018/04/pytorchpytorch-taichung_26.html){:target="_blank"}三分會。
 
 <img src="../../../images/pytp1.jpg">
 
@@ -24,14 +24,14 @@ TopicShare: true
 
 ## 2. 講者徵求
 
-讀書會2018年秋季以後之舉辦時間地點仍洽談中(預計仍是每周四晚上，地點為台大資工系德田館)，讀書會進行方式待徵完講者後也會再討論。
+讀書會2018年秋季之舉辦時間和地點仍在洽談中(預計仍是每周四晚上19:00~21:00，地點改為台大資工系德田館)，讀書會進行方式待徵完講者後也會再討論。
 
 若有興趣當講者，請先至[此文](https://www.facebook.com/groups/2027602154187130/permalink/2060273964253282/){:target="_blank"}留言，會有人將您加進Facebook的報告者聊天視窗，
 可以的話記得說明一下想報告下面進度表中的哪個題目。若有興趣的主題在下表中已經列有講者也沒關係，我們希望每個主題都能有多人一起討論，列在下表的即為該次報告的負責人。
 
 ## 3. 進度表
 
-此進度表僅初步規劃，之後還會新增主題，但主要就是接續春季部分的YOLO和Inception、以及機器學習的optimization, normalization, regularization，大家有甚麼想法也歡迎在[Facebook社團](https://www.facebook.com/groups/2027602154187130/){:target="_blank"}一起討論。
+此進度表僅初步規劃，之後還有可能會新增主題，但主要就是接續春季部分的YOLO和Inception、以及機器學習的optimization, normalization, regularization，大家有甚麼想法也歡迎在[Facebook社團](https://www.facebook.com/groups/2027602154187130/){:target="_blank"}一起討論。
 
 <!--
 <link rel="stylesheet" href="./custom.css">
