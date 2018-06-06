@@ -63,7 +63,7 @@ TopicShare: true
 | Gradient Descent <br/>& Momentum | 蔡皓璿            | BGD, SGD, Mini-batch GD, NAG | Group Normalization           | 缺                |
 | Adaptive Methods              | 王威翔            | AdaGrad, AdaDelta, RMSprop | weight decay                  | 缺                | [參考文章](http://hemingwang.blogspot.com/2017/06/aiweight-decay.html){:target="_blank"}
 | Adaptive Methods <br/>with Momentum | Rose Teng         | Adam, AdaMax | dropout                       | 缺                | 
-| Improvements of Adam          | Eric Lin          | NAdam, AMSGrad
+| Improvements of Adam          | Eric Lin          | NAdam, AMSGrad | RNN |林振雄 |
 
 [p]: ../../../images/icons/paper.png
 [c]: ../../../images/icons/coding.png
