@@ -31,7 +31,7 @@ TopicShare: true
 
 ## 3. 進度表
 
-此進度表僅初步規劃，之後還有可能會新增主題，但主要是接續春季部分的YOLO和Inception、以及機器學習的optimization, normalization, regularization，大家有甚麼想法也歡迎在[Facebook社團](https://www.facebook.com/groups/2027602154187130/){:target="_blank"}一起討論。
+此進度表僅初步規劃，之後還有可能會新增主題，但主要是接續春季YOLO和Inception的改進版本、以及機器學習的optimization, normalization, regularization，大家有甚麼想法也歡迎在[Facebook社團](https://www.facebook.com/groups/2027602154187130/){:target="_blank"}一起討論。
 
 <!--
 <link rel="stylesheet" href="./custom.css">
