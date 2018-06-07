@@ -35,7 +35,7 @@ TopicShare: true
  - 由台大CS+X計畫負責人[Pecu老師](https://www.facebook.com/pecu.tsai){:target="_blank"}及其團隊負責帶領
  - [公佈欄&進度表](https://github.com/pecu/PyTorch_CSX){:target="_blank"}
 
-地點: 台灣大學普通教學館305教室
+地點: 台灣大學普通教學館305教室 (6/28前)
 
 停車資訊:
 
@@ -79,8 +79,8 @@ TopicShare: true
 | 3/15 | ZFNet             | [![][p]][3]{:target="_blank"} [![][m]][22]{:target="_blank"} [![][v]][98]{:target="_blank"}                                                                                                        | 5/10 | 暫停一次  |                                                                                              | 6/28 | Fast R-CNN   | [![][p]][16]{:target="_blank"} [      ][37]{:target="_blank"} [      ][85]{:target="_blank"}
 | 3/22 | NIN               | [![][p]][4]{:target="_blank"} [![][m]][23]{:target="_blank"} [![][v]][97]{:target="_blank"}                                                                                                        | 5/17 | SMO       | [![][p]][10]{:target="_blank"} [![][m]][31]{:target="_blank"} [![][v]][91]{:target="_blank"} | 7/05 | Faster R-CNN | [![][p]][17]{:target="_blank"} [      ][38]{:target="_blank"} [      ][84]{:target="_blank"}
 | 3/29 | GoogLeNet         | [![][p]][5]{:target="_blank"} [![][m]][26]{:target="_blank"} [![][v]][96]{:target="_blank"}                                                                                                        | 5/24 | DPM       | [![][p]][11]{:target="_blank"} [      ][32]{:target="_blank"} [![][v]][90]{:target="_blank"} [![][c]][DPMd]{:target="_blank"} | 7/12 | YOLO v1      | [![][p]][18]{:target="_blank"} [      ][39]{:target="_blank"} [      ][83]{:target="_blank"} [![][c]][Yv1]{:target="_blank"}
-| 4/12 | VGGNet<br>ResNet  | [![][p]][6]{:target="_blank"} [![][m]][27]{:target="_blank"} [![][v]][95]{:target="_blank"}<br> [![][p]][6.5]{:target="_blank"} [![][t]][tres]{:target="_blank"} [![][vt]][vres]{:target="_blank"} | 5/31 | SS        | [![][p]][12]{:target="_blank"} [      ][33]{:target="_blank"} [      ][89]{:target="_blank"} | 7/19 | SSD          | [![][p]][19]{:target="_blank"} [      ][40]{:target="_blank"} [      ][82]{:target="_blank"} [![][c]][cssd]{:target="_blank"}
-| 4/19 | SqueezeNet        | [![][p]][7]{:target="_blank"} [![][m]][28]{:target="_blank"} [![][v]][94]{:target="_blank"}<br> [![][c]][sqc]{:target="_blank"}                                                                    | 6/07 | FCN       | [![][p]][13]{:target="_blank"} [      ][34]{:target="_blank"} [      ][88]{:target="_blank"} | 另訂 | YOLO v2&v3   | v2[ ![][p]][24]{:target="_blank"} [![][c]][Yv2]{:target="_blank"}<br> v3[ ![][p]][25]{:target="_blank"}  [![][c]][Yv3]{:target="_blank"}
+| 4/12 | VGGNet<br>ResNet  | [![][p]][6]{:target="_blank"} [![][m]][27]{:target="_blank"} [![][v]][95]{:target="_blank"}<br> [![][p]][6.5]{:target="_blank"} [![][t]][tres]{:target="_blank"} [![][vt]][vres]{:target="_blank"} | 5/31 | SS        | [![][p]][12]{:target="_blank"} [      ][33]{:target="_blank"} [![][v]][89]{:target="_blank"} | 7/19 | SSD          | [![][p]][19]{:target="_blank"} [      ][40]{:target="_blank"} [      ][82]{:target="_blank"} [![][c]][cssd]{:target="_blank"}
+| 4/19 | SqueezeNet        | [![][p]][7]{:target="_blank"} [![][m]][28]{:target="_blank"} [![][v]][94]{:target="_blank"}<br> [![][c]][sqc]{:target="_blank"}                                                                    | 6/07 | FCN       | [![][p]][13]{:target="_blank"} 本週報告取消，FCN將另外找時間報告                             | | | 
 
 [p]: ../../../images/icons/paper.png
 [c]: ../../../images/icons/coding.png
@@ -156,7 +156,7 @@ TopicShare: true
 
 <!-- SS -->
 [12]: https://ivi.fnwi.uva.nl/isis/publications/2013/UijlingsIJCV2013/UijlingsIJCV2013.pdf
-[89]: https://youtu.be/
+[89]: https://www.youtube.com/watch?v=iGIFwPfhmZg
 [33]: ....
 
 <!-- FCN -->
@@ -210,6 +210,7 @@ TopicShare: true
 | 3/8  | PyTorch Basic   | [![][t]][PTBt]{:target="_blank"}                                     | 4/19 | Basic NLP                    | [![][t]][NLPt]{:target="_blank"} [![][vt]][NLPv]{:target="_blank"}   | 4/26 | Automated<br>Reasoning | [![][t]][AtRt]{:target="_blank"} [![][vt]][AtRv]{:target="_blank"}
 | 3/15 | PyTorch Example | [![][t]][Pext]{:target="_blank"} [![][vt]][Pexv]{:target="_blank"}   | 4/26 | Seq2Seq                      | [![][t]][s2st]{:target="_blank"} [![][vt]][s2sv]{:target="_blank"}   | 5/3  | RL (DQN)               | [![][t]][DQNt]{:target="_blank"} [![][vt]][DQNv]{:target="_blank"}
 | 3/29 | RNN             | [![][t]][RNNt]{:target="_blank"}[![][vt]][RNNv]{:target="_blank"}    | 5/17 | Seq2Seq with <br/> attention | [![][t]][s2sat]{:target="_blank"} [![][vt]][s2sav]{:target="_blank"} | 5/24 | Style Transfer         | [![][p]][STp]{:target="_blank"}  [![][m]][STt]{:target="_blank"} [![][v]][STv]{:target="_blank"} <br/>[![][c]][STd]{:target="_blank"}
+|      |                 |                                                                      |      |                              |                                                                      | 5/31 | Variational Auto-Encoder | [![][p]][VAEp]{:target="_blank"}  [![][m]][VAEt]{:target="_blank"} [![][v]][VAEv]{:target="_blank"} <br/>[![][c]][VAEc]{:target="_blank"}
 
 [PTBt]:https://github.com/pecu/PyTorch_CSX/tree/master/01_PyTorch_Basic
 [Pext]:https://github.com/pecu/PyTorch_CSX/tree/master/03_Learning_PyTorch_with_Examples
@@ -234,3 +235,11 @@ TopicShare: true
 [STt]: ../../../articles/PyTorchTP-Style-Transfer/
 [STv]: https://www.youtube.com/watch?v=G3gd5jo5nJA
 [STd]: https://deepart.io
+
+<!-- Variational Auto-Encoder -->
+[VAEp]: https://arxiv.org/abs/1312.6114
+[VAEv]: https://www.youtube.com/watch?v=dR9TXPl0Cgg
+[VAEc]: https://github.com/pecu/PyTorch_CSX/tree/master/10_VAE
+[VAEt]: ppt.cc/fbPNXx
+
+
