@@ -60,7 +60,7 @@ $$ J(G) = \alpha J_{content} + \beta J_{style} $$
 
 透過backprop迭代更新輸出圖(G)上的pixel值以降低$J(G)$，其中$\alpha$和$\beta$的比值可以經調整得到不一樣的輸出效果。
 
-<p align="center"><img src="../../../images/PyTorchTP/StyleTransfer/CGS.gif" width="800"></p>
+<p align="center"><img src="../../images/articles/StyleTransfer/CGS.gif" width="800"></p>
 <p align="center"><i>Fig. 4. 以backprop更新輸出圖之範例(輸出圖G初始化為noisy的內容圖C)</i> </p>
 
 ### 2.2 Content Cost Function
@@ -87,7 +87,7 @@ $$ g_{k,k'}^{[l] \left( G \right)} = \sum_{i=1}^{n_H^{[l]}} \sum_{j=1}^{n_W^{[l]
 
 不過gram matrix還是以圖來表示較容易理解:
 
-<p align="center"><img src="../../../images/PyTorchTP/StyleTransfer/gram.png" width="500"></p>
+<p align="center"><img src="../../images/articles/StyleTransfer/gram.png" width="500"></p>
 <p align="center"><i>Fig. 5. Gram matrix的entry為任兩個channel之間activation值的內積 (Source: <a href="https://www.deeplearning.ai"> Deeplearning.ai</a>)</i> </p>
 
 有了gram matrix便可得到該層style cost function:
@@ -106,21 +106,21 @@ $$ J_{style} = \sum_l \lambda^{[l]} J_{style}^{[l]} $$
 
 CVPR論文內的一張圖(點擊放大)可以概括說明整個流程:
 
-<p align="center"><a href="../../../../images/articles/StyleTransfer/overall.png"><img src="../../../images/articles/StyleTransfer/overall.png" width="500"></a></p>
+<p align="center"><a href="../../images/articles/StyleTransfer/overall.png"><img src="../../images/articles/StyleTransfer/overall.png" width="500"></a></p>
 <p align="center"><i>Fig. 7. Style Transfer 演算法流程</i> </p>
 
 ## 3. Result
 
 論文有展示一些調整參數的效果，這裡只是撿過來放而已。
 
-<p align="center"><a href="../../../images/articles/StyleTransfer/r0.png"><img src="../../../images/articles/StyleTransfer/r0.png" width="500"></a></p>
+<p align="center"><a href="../../images/articles/StyleTransfer/r0.png"><img src="../../images/articles/StyleTransfer/r0.png" width="500"></a></p>
 <p align="center"><i>Fig. 8. 同一張內容圖施以不同風格之結果</i> </p>
 
 圖8的A為原圖，B~E為施加不同風格圖的結果，而其所合適之$\alpha / \beta$值也不同: B為$1 × 10^{−3}$, C為$8 × 10^{−4}$, D為$5 × 10^{−3}$, E和F為$5 × 10^{−4}$。
 
 <figure class="half">
-  <a href="../../../images/articles/StyleTransfer/r1.png"><img src="../../../images/articles/StyleTransfer/r1.png" height="600"></a>
-    <a href="../../../images/articles/StyleTransfer/r2.png"><img src="../../../images/articles/StyleTransfer/r2.png" height="600"></a>
+  <a href="../../images/articles/StyleTransfer/r1.png"><img src="../../images/articles/StyleTransfer/r1.png" height="600"></a>
+    <a href="../../images/articles/StyleTransfer/r2.png"><img src="../../images/articles/StyleTransfer/r2.png" height="600"></a>
     <figcaption></figcaption>
 </figure>
 <p align="center"><i>Fig. 9. 不同參數之表現比較。</i> </p>
