@@ -1,6 +1,6 @@
 ---
 layout: topic
-title: "PyTorch Taipei 2018秋季 (讀書會資訊與連結整理)"
+title: "PyTorch Taipei 2018秋季: 講者徵求中!!"
 date: 2018-06-06
 modified: 2018-06-06
 tags: #[PyTorchTP, DL]
@@ -57,14 +57,13 @@ TopicShare: true
 | 主題                          | 講者              | 連結&備註 
 |:-----------------------------:|:-----------------| ------
 | YOLO v2<br/>YOLO v3           | 林家豪<br/>郭瑞申 | v2 [![][p]][Yv2p]{:target="_blank"} [![][c]][Yv2]{:target="_blank"} <br/>v3 [![][p]][Yv3p]{:target="_blank"} [![][c]][Yv3]{:target="_blank"} 
-| Inception v2<br/>Inception v3 | Eric Lin<br/>楊哲寧 | 
+| Inception v2<br/>Inception v3 | Eric Lin<br/>楊哲寧 | Batch Normalization<br/>
+| Layer Normalization           | 缺                |
+| Group Normalization           | 缺                |
 | Gradient Descent <br/>& Momentum | 蔡皓璿         | BGD, SGD, Mini-batch GD, NAG 
 | Adaptive Methods              | 王威翔            | AdaGrad, AdaDelta, RMSprop 
 | Adaptive Methods <br/>with Momentum | Rose Teng   | Adam, AdaMax 
 | Improvements of Adam          | Eric Lin          | NAdam, AMSGrad 
-| Batch Normalization           |                   |
-| Layer Normalization           | 缺                |
-| Group Normalization           | 缺                |
 | Regularization                | 缺                | weight decay & dropout，[參考文章](http://hemingwang.blogspot.com/2017/06/aiweight-decay.html){:target="_blank"}
 | RNN |林振雄 |    
 
