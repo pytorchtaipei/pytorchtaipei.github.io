@@ -106,21 +106,21 @@ $$ J_{style} = \sum_l \lambda^{[l]} J_{style}^{[l]} $$
 
 CVPR論文內的一張圖(點擊放大)可以概括說明整個流程:
 
-<p align="center"><a href="../../../images/articles/StyleTransfer/overall.png"><img src="../../images/PyTorchTP/StyleTransfer/overall.png" width="500"></a></p>
+<p align="center"><a href="../../../../images/articles/StyleTransfer/overall.png"><img src="../../../images/articles/StyleTransfer/overall.png" width="500"></a></p>
 <p align="center"><i>Fig. 7. Style Transfer 演算法流程</i> </p>
 
 ## 3. Result
 
 論文有展示一些調整參數的效果，這裡只是撿過來放而已。
 
-<p align="center"><a href="../../../images/articles/StyleTransfer/r0.png"><img src="../../images/PyTorchTP/StyleTransfer/r0.png" width="500"></a></p>
+<p align="center"><a href="../../../images/articles/StyleTransfer/r0.png"><img src="../../../images/articles/StyleTransfer/r0.png" width="500"></a></p>
 <p align="center"><i>Fig. 8. 同一張內容圖施以不同風格之結果</i> </p>
 
 圖8的A為原圖，B~E為施加不同風格圖的結果，而其所合適之$\alpha / \beta$值也不同: B為$1 × 10^{−3}$, C為$8 × 10^{−4}$, D為$5 × 10^{−3}$, E和F為$5 × 10^{−4}$。
 
 <figure class="half">
-  <a href="../../images/PyTorchTP/StyleTransfer/r1.png"><img src="../../../images/articles/StyleTransfer/r1.png" height="600"></a>
-    <a href="../../images/PyTorchTP/StyleTransfer/r2.png"><img src="../../../images/articles/StyleTransfer/r2.png" height="600"></a>
+  <a href="../../../images/articles/StyleTransfer/r1.png"><img src="../../../images/articles/StyleTransfer/r1.png" height="600"></a>
+    <a href="../../../images/articles/StyleTransfer/r2.png"><img src="../../../images/articles/StyleTransfer/r2.png" height="600"></a>
     <figcaption></figcaption>
 </figure>
 <p align="center"><i>Fig. 9. 不同參數之表現比較。</i> </p>
