@@ -54,11 +54,9 @@ TopicShare: true
 </div>
 -->
 
-
-
 | 主題                          | 講者              | 連結&備註 
 |:-----------------------------:|:-----------------:| ------
-| YOLO v2<br/>YOLO v3           | 林家豪<br/>郭瑞申 | v2 [![][p]][Yv2p]{:target="_blank"} [![][p]][Yv2]{:target="_blank"} <br/>v3 [![][p]][Yv3p]{:target="_blank"} [![][p]][Yv3]{:target="_blank"} 
+| YOLO v2<br/>YOLO v3           | 林家豪<br/>郭瑞申 | v2 [![][p]][Yv2p]{:target="_blank"} [![][c]][Yv2]{:target="_blank"} <br/>v3 [![][p]][Yv3p]{:target="_blank"} [![][c]][Yv3]{:target="_blank"} 
 | Inception v2<br/>Inception v3 | 楊哲寧<br/>       | 希望至少再一位負責人<br/>(論文份量可能需要分兩周報告) 
 | Gradient Descent <br/>& Momentum | 蔡皓璿         | BGD, SGD, Mini-batch GD, NAG 
 | Adaptive Methods              | 王威翔            | AdaGrad, AdaDelta, RMSprop 
