@@ -1,15 +1,20 @@
 # Site navigation links
-- title: FB Group
-  url: https://www.facebook.com/groups/2027602154187130/
-  excerpt: ""
-  image: IOT-400x250.gif
-
 - title: Records
   url: /records/
-  excerpt: ""
+  excerpt: "讀書會紀錄與連結整理"
   image: IOT-400x250.gif
 
+- title: FB Group
+  url: https://www.facebook.com/groups/2027602154187130/
+  excerpt: "討論區與資訊公布"
+  image: FB-logo.jpg
+  
+- title: YouTube
+  url: https://www.youtube.com/channel/UCk_f2g9Dkc4WaqrqpzxywJw
+  excerpt: "讀書會錄影片段"
+  image: YouTube-1-400x250.png
+  
 - title: About
   url: /about/
-  excerpt: ""
+  excerpt: "讀書會簡介"
   image: pytp_tn.jpg
