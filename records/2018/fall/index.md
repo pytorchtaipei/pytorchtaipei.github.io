@@ -56,14 +56,20 @@ TopicShare: true
 
 
 
-| 主題                          | 講者              | 連結&備註 | 主題                          | 講者              | 連結&備註
-|:-----------------------------:|:-----------------:| ------|:-----------------------------:|:-----------------:| ------
-| YOLO v2&v3                    | 林家豪<br/>郭瑞申 | v2 [![][p]][Yv2p]{:target="_blank"} [![][p]][Yv2]{:target="_blank"} <br/>v3 [![][p]][Yv3p]{:target="_blank"} [![][p]][Yv3]{:target="_blank"} | Batch Normalization           | Eric Lin          |
-| Inception v2&v3               | 楊哲寧<br/>       | 希望至少再一位負責人<br/>(論文份量可能需要分兩周報告) | Layer Normalization           | 缺                |
-| Gradient Descent <br/>& Momentum | 蔡皓璿            | BGD, SGD, Mini-batch GD, NAG | Group Normalization           | 缺                |
-| Adaptive Methods              | 王威翔            | AdaGrad, AdaDelta, RMSprop | weight decay                  | 缺                | [參考文章](http://hemingwang.blogspot.com/2017/06/aiweight-decay.html){:target="_blank"}
-| Adaptive Methods <br/>with Momentum | Rose Teng         | Adam, AdaMax | dropout                       | 缺                | 
-| Improvements of Adam          | Eric Lin          | NAdam, AMSGrad | RNN |林振雄 |
+| 主題                          | 講者              | 連結&備註 
+|:-----------------------------:|:-----------------:| ------
+| YOLO v2&v3                    | 林家豪<br/>郭瑞申 | v2 [![][p]][Yv2p]{:target="_blank"} [![][p]][Yv2]{:target="_blank"} <br/>v3 [![][p]][Yv3p]{:target="_blank"} [![][p]][Yv3]{:target="_blank"} 
+| Inception v2&v3               | 楊哲寧<br/>       | 希望至少再一位負責人<br/>(論文份量可能需要分兩周報告) 
+| Gradient Descent <br/>& Momentum | 蔡皓璿            | BGD, SGD, Mini-batch GD, NAG 
+| Adaptive Methods              | 王威翔            | AdaGrad, AdaDelta, RMSprop 
+| Adaptive Methods <br/>with Momentum | Rose Teng         | Adam, AdaMax 
+| Improvements of Adam          | Eric Lin          | NAdam, AMSGrad 
+| Batch Normalization           | Eric Lin          |
+| Layer Normalization           | 缺                |
+| Group Normalization           | 缺                |
+| Regularization                | 缺                | weight decay & dropout，[參考文章](http://hemingwang.blogspot.com/2017/06/aiweight-decay.html){:target="_blank"}
+| RNN |林振雄 |    
+
 
 [p]: ../../../images/icons/paper.png
 [c]: ../../../images/icons/coding.png
