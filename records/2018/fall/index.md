@@ -28,7 +28,7 @@ TopicShare: true
 
 若有興趣當講者，請先至[此文](https://www.facebook.com/groups/2027602154187130/permalink/2060273964253282/){:target="_blank"}留言，會有人將您加進Facebook的報告者聊天視窗，請記得說明一下想報告的主題(特定論文或是NLP/數學)。若有興趣的主題在下表中已經列有講者也沒關係，我們希望每個主題都能有多人一起討論，一個主題也可能需要多位講者(每周一位)，列在下表的即為該主題的負責人。
 
-下列的進度表僅初步規劃，為上半場的論文討論主題，每個主題可能是1~3周不等的報告份量，目前主要是接續春季YOLO和Inception的改進版本、以及機器學習的optimization, normalization, regularization。下半場會是NLP和深度學習相關的數學，目前仍在規劃中，有興趣的講者可以先報名，待日程表確定後再讓大家選擇主題。
+下列的進度表僅初步規劃，為上半場的論文討論主題，每個主題可能是1~3周不等的報告份量，目前主要是接續春季YOLO和Inception的改進版本、以及optimization, normalization, regularization技巧。下半場會是NLP和深度學習相關的數學，目前仍在規劃中，有興趣的講者可以先報名，待日程表確定後再讓大家選擇主題。
 
 有甚麼想法歡迎在[Facebook社團](https://www.facebook.com/groups/2027602154187130/){:target="_blank"}一起討論。
 
