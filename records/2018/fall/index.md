@@ -26,12 +26,13 @@ TopicShare: true
 
 讀書會2018年秋季之舉辦時間和地點仍在洽談中(預計仍是每周四晚上19:00~21:00，地點改為台大資工系德田館)，讀書會進行方式待徵完講者後也會再討論。
 
-若有興趣當講者，請先至[此文](https://www.facebook.com/groups/2027602154187130/permalink/2060273964253282/){:target="_blank"}留言，會有人將您加進Facebook的報告者聊天視窗，
-可以的話記得說明一下想報告下面進度表中的哪個題目。若有興趣的主題在下表中已經列有講者也沒關係，我們希望每個主題都能有多人一起討論，列在下表的即為該次報告的負責人。
+若有興趣當講者，請先至[此文](https://www.facebook.com/groups/2027602154187130/permalink/2060273964253282/){:target="_blank"}留言，會有人將您加進Facebook的報告者聊天視窗，請記得說明一下想報告的主題(特定論文或是NLP/數學)。若有興趣的主題在下表中已經列有講者也沒關係，我們希望每個主題都能有多人一起討論，列在下表的即為該次報告的負責人。
 
 ## 3. 進度表
 
-此進度表僅初步規劃，每個主題可能是1~3周不等的報告份量，之後還有可能會新增主題(NLP, 數學)，目前主要是接續春季YOLO和Inception的改進版本、以及機器學習的optimization, normalization, regularization，大家有甚麼想法歡迎在[Facebook社團](https://www.facebook.com/groups/2027602154187130/){:target="_blank"}一起討論。
+下列的進度表僅初步規劃，為上半場的論文討論主題，每個主題可能是1~3周不等的報告份量，目前主要是接續春季YOLO和Inception的改進版本、以及機器學習的optimization, normalization, regularization。下半場會是NLP和深度學習相關的數學，目前仍在規劃中，有興趣的講者可以先報名，待日程表確定後再讓大家選擇主題。
+
+有甚麼想法歡迎在[Facebook社團](https://www.facebook.com/groups/2027602154187130/){:target="_blank"}一起討論。
 
 <!--
 <link rel="stylesheet" href="./custom.css">
@@ -54,14 +55,14 @@ TopicShare: true
 </div>
 -->
 
-| 主題                                | 講者                | 連結&備註 
+| 主題                                | 講者                | 連結&備註
 |:-----------------------------------:|:--------------------| ------
-| YOLO v2<br/>YOLO v3                 | 林家豪<br/>郭瑞申   | v2 [![][p]][Yv2p]{:target="_blank"} [![][c]][Yv2]{:target="_blank"} <br/>v3 [![][p]][Yv3p]{:target="_blank"} [![][c]][Yv3]{:target="_blank"} 
-| Gradient Descent <br/>& Momentum    | 蔡皓璿              | BGD, SGD, Mini-batch GD, NAG 
-| Adaptive Methods                    | 王威翔              | AdaGrad, AdaDelta, RMSprop 
-| Adaptive Methods <br/>with Momentum | Rose Teng           | Adam, AdaMax 
-| Improvements of Adam                | Eric Lin            | NAdam, AMSGrad 
-| Inception v2<br/>Inception v3       | Eric Lin<br/>楊哲寧 | v2為Batch Normalization<br/>.
+| YOLO v2<br/>YOLO v3                 | 林家豪<br/>郭瑞申   | v2 [![][p]][Yv2p]{:target="_blank"} [![][c]][Yv2]{:target="_blank"} <br/>v3 [![][p]][Yv3p]{:target="_blank"} [![][c]][Yv3]{:target="_blank"}
+| Gradient Descent <br/>& Momentum    | 蔡皓璿              | BGD, SGD, Mini-batch GD, NAG
+| Adaptive Methods                    | 王威翔              | AdaGrad, AdaDelta, RMSprop
+| Adaptive Methods <br/>with Momentum | Rose Teng           | Adam, AdaMax
+| Improvements of Adam                | Eric Lin            | NAdam, AMSGrad
+| Inception v2<br/>Inception v3, v4   | Eric Lin<br/>楊哲寧 | v2為Batch Normalization<br/>.
 | Layer Normalization                 | 缺                  |  
 | Group Normalization                 | 缺                  |  
 | Regularization                      | 缺                  | [weight decay](http://hemingwang.blogspot.com/2017/06/aiweight-decay.html){:target="_blank"}, dropout, dropconnect, L1, L2
@@ -79,5 +80,3 @@ TopicShare: true
 [Yv3]: https://pjreddie.com/darknet/yolo/
 [Yv2p]: https://arxiv.org/pdf/1612.08242
 [Yv3p]: https://pjreddie.com/media/files/papers/YOLOv3.pdf
-
-

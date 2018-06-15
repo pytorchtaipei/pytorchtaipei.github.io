@@ -155,7 +155,7 @@ CVPR論文內的一張圖(點擊放大)可以概括說明整個流程:
 4. 吳恩達在Coursera上開設之深度學習線上課程
   * [Deeplearning.ai@Coursera](https://www.deeplearning.ai){:target="_blank"}
   * [Style Transfer講解影片](https://www.youtube.com/watch?v=R39tWYYKNcI&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF&index=37){:target="_blank"}
-  * [課程介紹]by講者(https://mattwang44.github.io/en/articles/coursera-dlai-spec/){:target="_blank"}
+  * [課程介紹](https://mattwang44.github.io/en/articles/coursera-dlai-spec/){:target="_blank"}by講者
 5. [PyTorch official tutorial](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html){:target="_blank"}
 6. Mark Chang's [slides](https://www.slideshare.net/ckmarkohchang/a-neural-algorithm-of-artistic-style){:target="_blank"} & [video](https://www.youtube.com/watch?v=qzGuYuCpy1M){:target="_blank"} (偏重實驗的講解，很值得一看)
 7. Neural Style Transfer: A Review
