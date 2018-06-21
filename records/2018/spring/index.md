@@ -74,12 +74,12 @@ TopicShare: true
 
 |      | CNN               |                                                                                                                                                                                                    |      | Pre-R-CNN |                                                                                              |      | R-CNN        |                                   
 | ----:|:-----------------:| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----:|:---------:| -------------------------------------------------------------------------------------------- | ----:|:------------:| -------------------------------------------------------------------------------------------
-| 3/08 | LeNet             | [![][p]][1]{:target="_blank"} [![][m]][20]{:target="_blank"} [![][v]][100]{:target="_blank"}<br> [![][c]][c1]{:target="_blank"}                                                                    | 4/26 | PreVGG    | [![][p]][8]{:target="_blank"}  [![][m]][29]{:target="_blank"} [      ][93]{:target="_blank"} | 6/14 | R-CNN        | [![][p]][14]{:target="_blank"} [      ][35]{:target="_blank"} [      ][87]{:target="_blank"}
-| 3/08 | AlexNet           | [![][p]][2]{:target="_blank"} [![][m]][21]{:target="_blank"} [![][v]][99]{:target="_blank"} <br> [![][t]][t1]{:target="_blank"} [![][vt]][vt1]{:target="_blank"}                                   | 5/03 | SVM       | [![][p]][9]{:target="_blank"}  [![][m]][30]{:target="_blank"} [![][v]][92]{:target="_blank"} | 6/21 | SPPNet       | [![][p]][15]{:target="_blank"} [      ][36]{:target="_blank"} [      ][86]{:target="_blank"}
-| 3/15 | ZFNet             | [![][p]][3]{:target="_blank"} [![][m]][22]{:target="_blank"} [![][v]][98]{:target="_blank"}                                                                                                        | 5/10 | 暫停一次  |                                                                                              | 6/28 | Fast R-CNN   | [![][p]][16]{:target="_blank"} [      ][37]{:target="_blank"} [      ][85]{:target="_blank"}
-| 3/22 | NIN               | [![][p]][4]{:target="_blank"} [![][m]][23]{:target="_blank"} [![][v]][97]{:target="_blank"}                                                                                                        | 5/17 | SMO       | [![][p]][10]{:target="_blank"} [![][m]][31]{:target="_blank"} [![][v]][91]{:target="_blank"} | 7/05 | Faster R-CNN | [![][p]][17]{:target="_blank"} [      ][38]{:target="_blank"} [      ][84]{:target="_blank"}
-| 3/29 | GoogLeNet         | [![][p]][5]{:target="_blank"} [![][m]][26]{:target="_blank"} [![][v]][96]{:target="_blank"}                                                                                                        | 5/24 | DPM       | [![][p]][11]{:target="_blank"} [      ][32]{:target="_blank"} [![][v]][90]{:target="_blank"} [![][c]][DPMd]{:target="_blank"} | 7/12 | YOLO v1      | [![][p]][18]{:target="_blank"} [      ][39]{:target="_blank"} [      ][83]{:target="_blank"} [![][c]][Yv1]{:target="_blank"}
-| 4/12 | VGGNet<br>ResNet  | [![][p]][6]{:target="_blank"} [![][m]][27]{:target="_blank"} [![][v]][95]{:target="_blank"}<br> [![][p]][6.5]{:target="_blank"} [![][t]][tres]{:target="_blank"} [![][vt]][vres]{:target="_blank"} | 5/31 | SS        | [![][p]][12]{:target="_blank"} [      ][33]{:target="_blank"} [![][v]][89]{:target="_blank"} | 7/19 | SSD          | [![][p]][19]{:target="_blank"} [      ][40]{:target="_blank"} [      ][82]{:target="_blank"} [![][c]][cssd]{:target="_blank"}
+| 3/08 | LeNet             | [![][p]][1]{:target="_blank"} [![][m]][20]{:target="_blank"} [![][v]][100]{:target="_blank"}<br> [![][c]][c1]{:target="_blank"}                                                                    | 4/26 | PreVGG    | [![][p]][8]{:target="_blank"}  [![][m]][29]{:target="_blank"} [      ][93]{:target="_blank"} | 6/14 | R-CNN        | [![][p]][14]{:target="_blank"} [      ][35]{:target="_blank"} 
+| 3/08 | AlexNet           | [![][p]][2]{:target="_blank"} [![][m]][21]{:target="_blank"} [![][v]][99]{:target="_blank"} <br> [![][t]][t1]{:target="_blank"} [![][vt]][vt1]{:target="_blank"}                                   | 5/03 | SVM       | [![][p]][9]{:target="_blank"}  [![][m]][30]{:target="_blank"} [![][v]][92]{:target="_blank"} | 6/21 | SPPNet       | [![][p]][15]{:target="_blank"} [![][m]][36]{:target="_blank"} 
+| 3/15 | ZFNet             | [![][p]][3]{:target="_blank"} [![][m]][22]{:target="_blank"} [![][v]][98]{:target="_blank"}                                                                                                        | 5/10 | 暫停一次  |                                                                                              | 6/28 | Fast R-CNN   | [![][p]][16]{:target="_blank"} [      ][37]{:target="_blank"} 
+| 3/22 | NIN               | [![][p]][4]{:target="_blank"} [![][m]][23]{:target="_blank"} [![][v]][97]{:target="_blank"}                                                                                                        | 5/17 | SMO       | [![][p]][10]{:target="_blank"} [![][m]][31]{:target="_blank"} [![][v]][91]{:target="_blank"} | 7/05 | Faster R-CNN | [![][p]][17]{:target="_blank"} [![][m]][38]{:target="_blank"}
+| 3/29 | GoogLeNet         | [![][p]][5]{:target="_blank"} [![][m]][26]{:target="_blank"} [![][v]][96]{:target="_blank"}                                                                                                        | 5/24 | DPM       | [![][p]][11]{:target="_blank"} [      ][32]{:target="_blank"} [![][v]][90]{:target="_blank"} [![][c]][DPMd]{:target="_blank"} | 7/12 | YOLO v1      | [![][p]][18]{:target="_blank"} [      ][39]{:target="_blank"} [![][c]][Yv1]{:target="_blank"}
+| 4/12 | VGGNet<br>ResNet  | [![][p]][6]{:target="_blank"} [![][m]][27]{:target="_blank"} [![][v]][95]{:target="_blank"}<br> [![][p]][6.5]{:target="_blank"} [![][t]][tres]{:target="_blank"} [![][vt]][vres]{:target="_blank"} | 5/31 | SS        | [![][p]][12]{:target="_blank"} [      ][33]{:target="_blank"} [![][v]][89]{:target="_blank"} | 7/19 | SSD          | [![][p]][19]{:target="_blank"} [      ][40]{:target="_blank"} [![][c]][cssd]{:target="_blank"}
 | 4/19 | SqueezeNet        | [![][p]][7]{:target="_blank"} [![][m]][28]{:target="_blank"} [![][v]][94]{:target="_blank"}<br> [![][c]][sqc]{:target="_blank"}                                                                    | 6/7  | 暫停一次  |                                                                                              | | | 
 
 [p]: ../../../images/icons/paper.png
@@ -171,18 +171,15 @@ TopicShare: true
 
 <!-- SPPNet -->
 [15]: https://arxiv.org/pdf/1406.4729.pdf
-[86]: https://youtu.be/
-[36]: ....
+[36]: https://www.slideshare.net/whuang022ai/spatial-pyramid-pooling-in-deep-convolutional-networks-for-visual-recognition
 
 <!-- Fast -->
 [16]: http://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf
-[85]: https://youtu.be/
 [37]: ....
 
 <!-- Faster -->
 [17]: http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf
-[84]: https://youtu.be/
-[38]: ....
+[38]: https://python5566.wordpress.com/2018/06/19/deep-learning-notes-object-detection-models-faster-r-cnn-fcn/
 
 <!-- SSD -->
 [19]: https://arxiv.org/pdf/1512.02325.pdf
