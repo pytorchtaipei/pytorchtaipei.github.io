@@ -36,10 +36,23 @@ TopicShare: true
  - [公佈欄&進度表](https://github.com/pecu/PyTorch_CSX){:target="_blank"}
 
 地點:
-   * 6/28前: 台灣大學普通教學館305教室
-   * 7/5, 7/12, 7/19: 台灣大學德田館(資工系館)103教室  
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1520.093348441902!2d121.53900154531665!3d25.02010040425192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe326fd2457b42071!2z5b6355Sw6aSo!5e0!3m2!1szh-TW!2stw!4v1530247583375" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+   * 6/28前: 台灣大學普通教學館305教室
+   * 7/5, 7/12, 7/19: 台灣大學德田館(資工系館)103教室  <br>$\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;$(由正門進入後往右前方走，就會在左手邊看到103教室)
+
+<div class="w3-row w3-border">
+  <div class="w3-half w3-container">
+    <p align="center"><img src="https://sites.google.com/a/caece.net/eg2014f/project1de-tian/map.jpg" width="500"></p>
+  </div>
+  <div class="w3-half w3-container">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1520.093348441902!2d121.53900154531665!3d25.02010040425192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe326fd2457b42071!2z5b6355Sw6aSo!5e0!3m2!1szh-TW!2stw!4v1530247583375" width="600" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
+  </div>
+</div>
+
+<br>
+
+
+
 
 <br>
 停車資訊:
