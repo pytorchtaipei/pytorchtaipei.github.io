@@ -39,14 +39,15 @@ TopicShare: true
    * 6/28前: 台灣大學普通教學館305教室
    * 7/5, 7/12, 7/19: 台灣大學德田館(資工系館)103教室  
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.4535146681383!2d121.53815916115926!3d25.018678910908022!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a989dec77285%3A0x8b1e98041249ade3!2zMTA25Y-w5YyX5biC5aSn5a6J5Y2A5pmu6YCa5pWZ5a246aSo!5e0!3m2!1szh-TW!2stw!4v1530247187122" width="600" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1520.093348441902!2d121.53900154531665!3d25.02010040425192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe326fd2457b42071!2z5b6355Sw6aSo!5e0!3m2!1szh-TW!2stw!4v1530247583375" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+<br>
 停車資訊:
 
    * [台大校內停車地點](http://general.ga.ntu.edu.tw/uploads/archive_file_multiple/file/56d1ee4f48b8a10b9200024b/%E6%A0%A1%E7%B8%BD%E5%8D%80%E6%B1%BD%E6%A9%9F%E8%BB%8A%E5%81%9C%E8%BB%8A%E5%A0%B4%E5%8D%80%E4%BD%8D%E5%9C%96-103-09.pdf){:target="_blank"}及[收費規則](http://general.ga.ntu.edu.tw/zh_tw/qa/校園臨時停車收費費率-22859878){:target="_blank"}
    * 校友若持[校友證]( http://www.alumni.ntu.edu.tw/card_benefits.html ){:target="_blank"}則能以優惠價格停車
 
-<br><br>
+<br>
 
 ## 3. 進度表與連結整理
 
