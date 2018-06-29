@@ -35,14 +35,16 @@ TopicShare: true
  - 由台大CS+X計畫負責人[Pecu老師](https://www.facebook.com/pecu.tsai){:target="_blank"}及其團隊負責帶領
  - [公佈欄&進度表](https://github.com/pecu/PyTorch_CSX){:target="_blank"}
 
-地點: 台灣大學普通教學館305教室 (6/28前)
+地點:
+   * 6/28前: 台灣大學普通教學館305教室
+   * 7/5, 7/12, 7/19: 台灣大學德田館(資工系館)103教室  
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.4535146681383!2d121.53815916115926!3d25.018678910908022!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a989dec77285%3A0x8b1e98041249ade3!2zMTA25Y-w5YyX5biC5aSn5a6J5Y2A5pmu6YCa5pWZ5a246aSo!5e0!3m2!1szh-TW!2stw!4v1530247187122" width="600" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 停車資訊:
 
    * [台大校內停車地點](http://general.ga.ntu.edu.tw/uploads/archive_file_multiple/file/56d1ee4f48b8a10b9200024b/%E6%A0%A1%E7%B8%BD%E5%8D%80%E6%B1%BD%E6%A9%9F%E8%BB%8A%E5%81%9C%E8%BB%8A%E5%A0%B4%E5%8D%80%E4%BD%8D%E5%9C%96-103-09.pdf){:target="_blank"}及[收費規則](http://general.ga.ntu.edu.tw/zh_tw/qa/校園臨時停車收費費率-22859878){:target="_blank"}
    * 校友若持[校友證]( http://www.alumni.ntu.edu.tw/card_benefits.html ){:target="_blank"}則能以優惠價格停車
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5187.408040986593!2d121.5353681110393!3d25.018345685786382!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a989deb9207f%3A0x8de176bf66b58b1d!2z5Y-w54Gj5aSn5a245pmu6YCa5pWZ5a246aSo!5e0!3m2!1szh-TW!2sus!4v1526145553086" width="600" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <br><br>
 
@@ -72,15 +74,15 @@ TopicShare: true
 </div>
 
 
-|      | CNN               |                                                                                                                                                                                                    |      | Pre-R-CNN |                                                                                              |      | R-CNN        |                                   
+|      | CNN               |                                                                                                                                                                                                    |      | Pre-R-CNN |                                                                                              |      | Obj-Detection        |                                   
 | ----:|:-----------------:| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----:|:---------:| -------------------------------------------------------------------------------------------- | ----:|:------------:| -------------------------------------------------------------------------------------------
-| 3/08 | LeNet             | [![][p]][1]{:target="_blank"} [![][m]][20]{:target="_blank"} [![][v]][100]{:target="_blank"}<br> [![][c]][c1]{:target="_blank"}                                                                    | 4/26 | PreVGG    | [![][p]][8]{:target="_blank"}  [![][m]][29]{:target="_blank"} [      ][93]{:target="_blank"} | 6/14 | R-CNN        | [![][p]][14]{:target="_blank"} [      ][35]{:target="_blank"} 
-| 3/08 | AlexNet           | [![][p]][2]{:target="_blank"} [![][m]][21]{:target="_blank"} [![][v]][99]{:target="_blank"} <br> [![][t]][t1]{:target="_blank"} [![][vt]][vt1]{:target="_blank"}                                   | 5/03 | SVM       | [![][p]][9]{:target="_blank"}  [![][m]][30]{:target="_blank"} [![][v]][92]{:target="_blank"} | 6/21 | SPPNet       | [![][p]][15]{:target="_blank"} [![][m]][36]{:target="_blank"} 
-| 3/15 | ZFNet             | [![][p]][3]{:target="_blank"} [![][m]][22]{:target="_blank"} [![][v]][98]{:target="_blank"}                                                                                                        | 5/10 | 暫停一次  |                                                                                              | 6/28 | Fast R-CNN   | [![][p]][16]{:target="_blank"} [      ][37]{:target="_blank"} 
+| 3/08 | LeNet             | [![][p]][1]{:target="_blank"} [![][m]][20]{:target="_blank"} [![][v]][100]{:target="_blank"}<br> [![][c]][c1]{:target="_blank"}                                                                    | 4/26 | PreVGG    | [![][p]][8]{:target="_blank"}  [![][m]][29]{:target="_blank"} [      ][93]{:target="_blank"} | 6/14 | R-CNN        | [![][p]][14]{:target="_blank"} [      ][35]{:target="_blank"}
+| 3/08 | AlexNet           | [![][p]][2]{:target="_blank"} [![][m]][21]{:target="_blank"} [![][v]][99]{:target="_blank"} <br> [![][t]][t1]{:target="_blank"} [![][vt]][vt1]{:target="_blank"}                                   | 5/03 | SVM       | [![][p]][9]{:target="_blank"}  [![][m]][30]{:target="_blank"} [![][v]][92]{:target="_blank"} | 6/21 | SPPNet       | [![][p]][15]{:target="_blank"} [![][m]][36]{:target="_blank"}
+| 3/15 | ZFNet             | [![][p]][3]{:target="_blank"} [![][m]][22]{:target="_blank"} [![][v]][98]{:target="_blank"}                                                                                                        | 5/10 | 暫停一次  |                                                                                              | 6/28 | Fast R-CNN   | [![][p]][16]{:target="_blank"} [![][m]][37]{:target="_blank"}
 | 3/22 | NIN               | [![][p]][4]{:target="_blank"} [![][m]][23]{:target="_blank"} [![][v]][97]{:target="_blank"}                                                                                                        | 5/17 | SMO       | [![][p]][10]{:target="_blank"} [![][m]][31]{:target="_blank"} [![][v]][91]{:target="_blank"} | 7/05 | Faster R-CNN | [![][p]][17]{:target="_blank"} [![][m]][38]{:target="_blank"}
 | 3/29 | GoogLeNet         | [![][p]][5]{:target="_blank"} [![][m]][26]{:target="_blank"} [![][v]][96]{:target="_blank"}                                                                                                        | 5/24 | DPM       | [![][p]][11]{:target="_blank"} [      ][32]{:target="_blank"} [![][v]][90]{:target="_blank"} [![][c]][DPMd]{:target="_blank"} | 7/12 | YOLO v1      | [![][p]][18]{:target="_blank"} [      ][39]{:target="_blank"} [![][c]][Yv1]{:target="_blank"}
 | 4/12 | VGGNet<br>ResNet  | [![][p]][6]{:target="_blank"} [![][m]][27]{:target="_blank"} [![][v]][95]{:target="_blank"}<br> [![][p]][6.5]{:target="_blank"} [![][t]][tres]{:target="_blank"} [![][vt]][vres]{:target="_blank"} | 5/31 | SS        | [![][p]][12]{:target="_blank"} [      ][33]{:target="_blank"} [![][v]][89]{:target="_blank"} | 7/19 | SSD          | [![][p]][19]{:target="_blank"} [      ][40]{:target="_blank"} [![][c]][cssd]{:target="_blank"}
-| 4/19 | SqueezeNet        | [![][p]][7]{:target="_blank"} [![][m]][28]{:target="_blank"} [![][v]][94]{:target="_blank"}<br> [![][c]][sqc]{:target="_blank"}                                                                    | 6/7  | 暫停一次  |                                                                                              | | | 
+| 4/19 | SqueezeNet        | [![][p]][7]{:target="_blank"} [![][m]][28]{:target="_blank"} [![][v]][94]{:target="_blank"}<br> [![][c]][sqc]{:target="_blank"}                                                                    | 6/7  | 暫停一次  |                                                                                              | | |
 
 [p]: ../../../images/icons/paper.png
 [c]: ../../../images/icons/coding.png
@@ -175,7 +177,7 @@ TopicShare: true
 
 <!-- Fast -->
 [16]: http://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf
-[37]: ....
+[37]: https://drive.google.com/open?id=1QGrMVusOFrQ_8FSR1gP942YoMSmgUCzS
 
 <!-- Faster -->
 [17]: http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf
@@ -238,5 +240,3 @@ TopicShare: true
 [VAEv]: https://www.youtube.com/watch?v=dR9TXPl0Cgg
 [VAEc]: https://github.com/pecu/PyTorch_CSX/tree/master/10_VAE
 [VAEt]: https://ppt.cc/fbPNXx
-
-

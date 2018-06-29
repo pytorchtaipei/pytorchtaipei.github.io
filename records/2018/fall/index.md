@@ -56,12 +56,13 @@ TopicShare: true
 | 主題                                | 講者                | 連結&備註
 |:-----------------------------------:|:--------------------| ------
 | YOLO v2<br/>YOLO v3                 | 林家豪<br/>郭瑞申   | v2 [![][p]][Yv2p]{:target="_blank"} [![][c]][Yv2]{:target="_blank"} <br/>v3 [![][p]][Yv3p]{:target="_blank"} [![][c]][Yv3]{:target="_blank"}
+| MobileNet                           | 郭宗賢              |
 | Gradient Descent <br/>& Momentum    | 蔡皓璿              | BGD, SGD, Mini-batch GD, NAG
 | Adaptive Methods                    | 王威翔              | AdaGrad, AdaDelta, RMSprop
 | Adaptive Methods <br/>with Momentum | Rose Teng           | Adam, AdaMax
 | Improvements of Adam                | Eric Lin            | NAdam, AMSGrad
 | Inception v2<br/>Inception v3, v4   | Eric Lin<br/>楊哲寧 | v2為Batch Normalization<br/>.
-| Layer Normalization                 | 缺                  |  
+| Layer Normalization                 | 缺                  | 楊明翰
 | Group Normalization                 | 缺                  |  
 | Regularization                      | 缺                  | [weight decay](http://hemingwang.blogspot.com/2017/06/aiweight-decay.html){:target="_blank"}, dropout, dropconnect, L1, L2
 | RNN                                 | 林振雄              |    
