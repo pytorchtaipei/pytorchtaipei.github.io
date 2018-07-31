@@ -53,19 +53,27 @@ TopicShare: true
 </div>
 -->
 
-| 主題                                | 講者                | 連結&備註
-|:-----------------------------------:|:--------------------| ------
-| YOLO v2<br/>YOLO v3                 | 林家豪<br/>郭瑞申   | v2 [![][p]][Yv2p]{:target="_blank"} [![][c]][Yv2]{:target="_blank"} <br/>v3 [![][p]][Yv3p]{:target="_blank"} [![][c]][Yv3]{:target="_blank"}
-| MobileNet                           | 郭宗賢              |
-| Gradient Descent <br/>& Momentum    | 蔡皓璿              | BGD, SGD, Mini-batch GD, NAG
-| Adaptive Methods                    | 王威翔              | AdaGrad, AdaDelta, RMSprop
-| Adaptive Methods <br/>with Momentum | Rose Teng           | Adam, AdaMax
-| Improvements of Adam                | Eric Lin            | NAdam, AMSGrad
-| Inception v2<br/>Inception v3, v4   | Eric Lin<br/>楊哲寧 | v2為Batch Normalization<br/>.
-| Layer Normalization                 | 缺                  | 楊明翰
-| Group Normalization                 | 缺                  |  
-| Regularization                      | 缺                  | [weight decay](http://hemingwang.blogspot.com/2017/06/aiweight-decay.html){:target="_blank"}, dropout, dropconnect, L1, L2
-| RNN                                 | 林振雄              |    
+
+
+|日期(暫定)       | 主題                                | 講者                | 連結&備註
+|:--------------:|:-----------------------------------:|:--------------------| ------
+| 9/13           | FPN                                 | 缺                  |
+| 9/20           | RetinaNet                           | 缺                  |
+| 9/27<br/>10/4  | YOLO v2<br/>YOLO v3                 | 林家豪<br/>郭瑞申    | v2 [![][p]][Yv2p]{:target="_blank"} [![][c]][Yv2]{:target="_blank"} <br/>v3 [![][p]][Yv3p]{:target="_blank"} [![][c]][Yv3]{:target="_blank"}
+| 10/11          | MobileNet                           | 郭宗賢              |
+| 10/18          | Gradient Descent <br/>& Momentum    | 蔡皓璿              | BGD, SGD, Mini-batch GD, NAG
+| 10/25          | Adaptive Methods                    | 王威翔              | AdaGrad, AdaDelta, RMSprop
+| 11/1           | Adaptive Methods <br/>with Momentum | Rose Teng           | Adam, AdaMax
+| 11/8           | Improvements of Adam                | Eric Lin            | NAdam, AMSGrad
+| 11/15<br/>11/22| Inception v2<br/>Inception v3, v4   | Eric Lin<br/>楊哲寧 | Batch Normalization<br/>.
+| 12/6           | Layer Normalization                 | 楊明翰              |
+| 12/13          | Group Normalization                 | 缺                  |  
+| 12/20          | Regularization                      | 缺                  | [weight decay](http://hemingwang.blogspot.com/2017/06/aiweight-decay.html){:target="_blank"}, dropout, dropconnect, L1, L2
+
+<!-- 12/27 -->
+<!-- 1/3,10,17,24,31 -->
+<!-- ntu_schedule http://www.aca.ntu.edu.tw/calendar/calendar107.xls -->
+<!-- | RNN                                 | 林振雄              |    -->
 
 [p]: ../../../images/icons/paper.png
 [c]: ../../../images/icons/coding.png

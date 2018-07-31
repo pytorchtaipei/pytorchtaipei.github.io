@@ -95,8 +95,8 @@ TopicShare: true
 | 3/15 | ZFNet             | [![][p]][3]{:target="_blank"} [![][m]][22]{:target="_blank"} [![][v]][98]{:target="_blank"}                                                                                                        | 5/10 | 暫停一次  |                                                                                              | 6/28 | Fast R-CNN   | [![][p]][16]{:target="_blank"} [![][c]][Fm]{:target="_blank"} [![][m]][37]{:target="_blank"}
 | 3/22 | NIN               | [![][p]][4]{:target="_blank"} [![][m]][23]{:target="_blank"} [![][v]][97]{:target="_blank"}                                                                                                        | 5/17 | SMO       | [![][p]][10]{:target="_blank"} [![][m]][31]{:target="_blank"} [![][v]][91]{:target="_blank"} | 7/05 | Faster R-CNN | [![][p]][17]{:target="_blank"} [![][c]][Ftm]{:target="_blank"} [![][m]][38]{:target="_blank"}
 | 3/29 | GoogLeNet         | [![][p]][5]{:target="_blank"} [![][m]][26]{:target="_blank"} [![][v]][96]{:target="_blank"}                                                                                                        | 5/24 | DPM       | [![][p]][11]{:target="_blank"} [      ][32]{:target="_blank"} [![][v]][90]{:target="_blank"} [![][c]][DPMd]{:target="_blank"} | 7/12 | YOLO v1      | [![][p]][18]{:target="_blank"} [![][c]][Yv1]{:target="_blank"}
-| 4/12 | VGGNet<br>ResNet  | [![][p]][6]{:target="_blank"} [![][m]][27]{:target="_blank"} [![][v]][95]{:target="_blank"}<br> [![][p]][6.5]{:target="_blank"} [![][t]][tres]{:target="_blank"} [![][vt]][vres]{:target="_blank"} | 5/31 | SS        | [![][p]][12]{:target="_blank"} [      ][33]{:target="_blank"} [![][v]][89]{:target="_blank"} | 7/19 | SSD          | [![][p]][19]{:target="_blank"} [![][c]][cssd]{:target="_blank"}
-| 4/19 | SqueezeNet        | [![][p]][7]{:target="_blank"} [![][m]][28]{:target="_blank"} [![][v]][94]{:target="_blank"}<br> [![][c]][sqc]{:target="_blank"}                                                                    | 6/7  | 暫停一次  |                                                                                              | | |
+| 4/12 | VGGNet<br>ResNet  | [![][p]][6]{:target="_blank"} [![][m]][27]{:target="_blank"} [![][v]][95]{:target="_blank"}<br> [![][p]][6.5]{:target="_blank"} [![][t]][tres]{:target="_blank"} [![][vt]][vres]{:target="_blank"} | 5/31 | SS        | [![][p]][12]{:target="_blank"} [      ][33]{:target="_blank"} [![][v]][89]{:target="_blank"} | 7/26 | FCN          | [![][p]][13]{:target="_blank"} [![][c]][fcn]{:target="_blank"}
+| 4/19 | SqueezeNet        | [![][p]][7]{:target="_blank"} [![][m]][28]{:target="_blank"} [![][v]][94]{:target="_blank"}<br> [![][c]][sqc]{:target="_blank"}                                                                    | 6/7  | 暫停一次  |                                                                                              | 8/9  | SSD          | [![][p]][19]{:target="_blank"} [![][c]][cssd]{:target="_blank"}
 
 [p]: ../../../images/icons/paper.png
 [c]: ../../../images/icons/coding.png
@@ -177,13 +177,10 @@ TopicShare: true
 
 <!-- FCN -->
 [13]: https://www.cv-foundation.org/openaccess/content_cvpr_2015/app/2B_011.pdf
-[88]: https://youtu.be/
-[34]: ....
+[fcn]: https://drive.google.com/open?id=1SU-U253gqZKhJvhPICEo8PbQR6x_-fHJ
 
 <!-- R-CNN -->
 [14]: https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf?spm=5176.100239.blogcont55892.8.pm8zm1&file=Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf
-[87]: https://youtu.be/
-[35]: ....
 
 <!-- SPPNet -->
 [15]: https://arxiv.org/pdf/1406.4729.pdf
