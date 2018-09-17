@@ -51,9 +51,9 @@ TopicShare: true
   </div>
   -->
   <div class="w3-quarter w3-container">
-    <p><img src="../../images/icons/paper.png" alt="" />: 論文PDF<br>
-    <img src="../../images/icons/coding.png" alt="" />: 官方程式/Demo<br>
-    <img src="../../images/icons/mt.png" alt="" />: 講者之講解材料</p>
+    <p><img src="../../../images/icons/paper.png" alt="" />: 論文PDF<br>
+    <img src="../../../images/icons/coding.png" alt="" />: 官方程式/Demo<br>
+    <img src="../../../images/icons/mt.png" alt="" />: 講者之講解材料</p>
   </div>
 </div>
 
