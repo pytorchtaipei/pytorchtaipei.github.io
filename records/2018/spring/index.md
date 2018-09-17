@@ -64,7 +64,7 @@ TopicShare: true
 
 **6/7以後場次CS+X團隊無法支援錄影器材，不會有講解影片**
 
-<link rel="stylesheet" href="./custom.css">
+<link rel="stylesheet" href="../../custom.css">
 <!-- <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css"> -->
 <div class="w3-row">
