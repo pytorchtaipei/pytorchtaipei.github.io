@@ -14,7 +14,7 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <a href="{{ site.url }}/records/2018fall">
+  <a href="{{ site.url }}/records/2018/fall">
     <img src="{{ site.url }}/images/pytorch.jpg">
     <h2 class="post-title">2018秋季資料整理</h2>
     <p class="post-excerpt">每周四晚上於台大德田館舉辦</p>
@@ -22,7 +22,7 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <a href="{{ site.url }}/records/2018spring">
+  <a href="{{ site.url }}/records/2018/spring">
     <img src="{{ site.url }}/images/pytorch.jpg">
     <h2 class="post-title">2018春季資料整理</h2>
     <p class="post-excerpt"><!--已完結--></p>
