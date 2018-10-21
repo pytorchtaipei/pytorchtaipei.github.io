@@ -64,21 +64,22 @@ TopicShare: true
 
 |日期            | 上半場主題                                                                                                                                           | 講者                  | 下半場主題                                                                                                      | 講者               |
 |:--------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|:---------------------------------------------------------------------------------------------------------------:|:------------------:|
-| 8/23           | **Inception v2**                        <br>[![][p]][Iv2p]{:target="_blank"} [      ][Iv2c]{:target="_blank"} [      ][Iv2m]{:target="_blank"}      | 康仕承               | - | -
-| 8/30           | **Inception v3&v4**                     <br>v3[![][p]][Iv3p]{:target="_blank"}, v4[![][p]][Iv4p]{:target="_blank"} [      ][I34m]{:target="_blank"} | 楊哲寧               | - | -          
-| 9/13           | **Feature Pyramid Networks**            <br>[![][p]][FPNp]{:target="_blank"} [      ][FPNc]{:target="_blank"} [      ][FPNm]{:target="_blank"}      | 郭瑞申               | **Linear Algebra I**                    <br>[![][p]][m1p]{:target="_blank"} [      ][m1m]{:target="_blank"}     | Rose Teng                
-| 9/20           | **RetinaNet**                           <br>[![][p]][rtnp]{:target="_blank"} [![][c]][rtnc]{:target="_blank"} [      ][rtnm]{:target="_blank"}      | 王威翔               | **Linear Algebra II**                   <br>[![][p]][m1p]{:target="_blank"} [      ][m1m]{:target="_blank"}     | 陳彥吉
-| 9/27           | **YOLO v2**                             <br>[![][p]][Yv2p]{:target="_blank"} [![][c]][Yv2c]{:target="_blank"} [      ][Yv2m]{:target="_blank"}      | 林家豪               | **Probability & Information Theory**    <br>[![][p]][m2p]{:target="_blank"} [      ][m2m]{:target="_blank"}     | 康仕承
-| 10/4           | **YOLO v3**                             <br>[![][p]][Yv3p]{:target="_blank"} [![][c]][Yv3c]{:target="_blank"} [      ][Yv3m]{:target="_blank"}      | 郭瑞申               | **Numerical Computation**               <br>[![][p]][m3p]{:target="_blank"} [      ][m3m]{:target="_blank"}     | 缺                 |    
-| 10/11          | **MobileNet**                           <br>[![][p]][mbnp]{:target="_blank"} [      ][mbnc]{:target="_blank"} [      ][mbnm]{:target="_blank"}      | 郭宗賢               | **Machine Learning Basics I**           <br>[![][p]][m4p]{:target="_blank"} [      ][m4m]{:target="_blank"}     | Rose Teng          |  
-| 10/25          | **Gradient Descent & Momentum**         <br>BGD, SGD, Mini-batch GD, NAG[      ][gdmp]{:target="_blank"} [      ][gdmc]{:target="_blank"} [      ][gdmm]{:target="_blank"}    | 缺                   | **Machine Learning Basics II**          <br>[![][p]][m4p]{:target="_blank"} [      ][m5m]{:target="_blank"}     | 缺                 |
-| 11/01          | **Adaptive Methods**                    <br>AdaGrad, AdaDelta, RMSprop[      ][am1p]{:target="_blank"} [      ][am1c]{:target="_blank"} [      ][am1m]{:target="_blank"}      | 缺                   | NLP (主題整理中)                                                                       | 缺
-| 11/08          | **Adaptive Methods with Momentum**      <br>Adam, AdaMax[      ][am2p]{:target="_blank"} [      ][am2c]{:target="_blank"} [      ][am2m]{:target="_blank"}                    | Rose Teng            | NLP (主題整理中)                                                                       | 缺
-| 11/15          | **Improvements of Adam**                <br>NAdam, AMSGrad[      ][iadp]{:target="_blank"} [      ][iadc]{:target="_blank"} [      ][iadm]{:target="_blank"}                  | 缺                   | NLP (主題整理中)                                                                       | 缺
-| 12/6           | **Layer Normalization**                 <br>[![][p]][lnlp]{:target="_blank"} [      ][lnlc]{:target="_blank"} [      ][lnlm]{:target="_blank"}      | 楊明翰               | NLP (主題整理中)                                                                                                 | 缺
-| 12/13          | **Group Normalization**                 <br>[      ][gnlp]{:target="_blank"} [      ][gnlc]{:target="_blank"} [      ][gnlm]{:target="_blank"}      | 康仕承               | NLP (主題整理中)                                                                                                 | 缺
-| 12/20          | **Regularization I**                    <br>weight decay, L1, L2 [      ][rg1m]{:target="_blank"}                                                   | Yvon Wong            | NLP (主題整理中)                                                                                                 | 缺                 |  
-| 12/27          | **Regularization II**                   <br>dropout, dropconnect [      ][rg1m]{:target="_blank"}                                                   | 缺                   | NLP (主題整理中)                                                                                                 | 缺                 |
+| 8/23           | **Inception v2**                        <br>[![][p]][Iv2p]{:target="_blank"} [      ][Iv2c]{:target="_blank"} [      ][Iv2m]{:target="_blank"}      | 康仕承               | - | - |
+| 8/30           | **Inception v3&v4**                     <br>v3[![][p]][Iv3p]{:target="_blank"}, v4[![][p]][Iv4p]{:target="_blank"} [      ][I34m]{:target="_blank"} | 楊哲寧               | - | - |        
+| 9/13           | **Feature Pyramid Networks**            <br>[![][p]][FPNp]{:target="_blank"} [      ][FPNc]{:target="_blank"} [      ][FPNm]{:target="_blank"}      | 郭瑞申               | **Linear Algebra I**                    <br>[![][p]][m1p]{:target="_blank"} [      ][m1m]{:target="_blank"}     | Rose Teng         |               
+| 9/20           | **RetinaNet**                           <br>[![][p]][rtnp]{:target="_blank"} [![][c]][rtnc]{:target="_blank"} [      ][rtnm]{:target="_blank"}      | 王威翔               | **Linear Algebra II**                   <br>[![][p]][m1p]{:target="_blank"} [      ][m1m]{:target="_blank"}     | 陳彥吉             |
+| 10/4           | **YOLO v2**                             <br>[![][p]][Yv2p]{:target="_blank"} [![][c]][Yv2c]{:target="_blank"} [      ][Yv2m]{:target="_blank"}      | 林家豪               | - | - |
+| 10/11          | **Probability & Information Theory**    <br>[![][p]][m2p]{:target="_blank"} [      ][m2m]{:target="_blank"}                                         | 康仕承               | - | - |
+| 10/18          |  **YOLO v3**                             <br>[![][p]][Yv3p]{:target="_blank"} [![][c]][Yv3c]{:target="_blank"} [      ][Yv3m]{:target="_blank"}     | Allen 吳忠倫         | **Numerical Computation**               <br>[![][p]][m3p]{:target="_blank"} [      ][m3m]{:target="_blank"}     | 陳彥吉              |
+| 10/25          | **MobileNet**                           <br>[![][p]][mbnp]{:target="_blank"} [      ][mbnc]{:target="_blank"} [      ][mbnm]{:target="_blank"}      | 郭宗賢               | **Machine Learning Basics I**           <br>[![][p]][m4p]{:target="_blank"} [      ][m4m]{:target="_blank"}     | Rose Teng          |  
+| 11/01          | **Gradient Descent & Momentum**         <br>BGD, SGD, Mini-batch GD, NAG[      ][gdmp]{:target="_blank"} [      ][gdmc]{:target="_blank"} [      ][gdmm]{:target="_blank"}    | 缺                   | **Machine Learning Basics II**          <br>[![][p]][m4p]{:target="_blank"} [      ][m5m]{:target="_blank"}     | 陳彥吉                 |
+| 11/08          | **Adaptive Methods**                    <br>AdaGrad, AdaDelta, RMSprop[      ][am1p]{:target="_blank"} [      ][am1c]{:target="_blank"} [      ][am1m]{:target="_blank"}      | 缺                   | NLP (主題整理中)                                                                       | 缺
+| 11/22          | **Adaptive Methods with Momentum**      <br>Adam, AdaMax[      ][am2p]{:target="_blank"} [      ][am2c]{:target="_blank"} [      ][am2m]{:target="_blank"}                    | Rose Teng            | NLP (主題整理中)                                                                       | 缺
+| 12/6           | **Improvements of Adam**                <br>NAdam, AMSGrad[      ][iadp]{:target="_blank"} [      ][iadc]{:target="_blank"} [      ][iadm]{:target="_blank"}                  | 缺                   | NLP (主題整理中)                                                                       | 缺
+| 12/13          | **Layer Normalization**                 <br>[![][p]][lnlp]{:target="_blank"} [      ][lnlc]{:target="_blank"} [      ][lnlm]{:target="_blank"}      | 楊明翰               | NLP (主題整理中)                                                                                                 | 缺
+| 12/20          | **Group Normalization**                 <br>[      ][gnlp]{:target="_blank"} [      ][gnlc]{:target="_blank"} [      ][gnlm]{:target="_blank"}      | 康仕承               | NLP (主題整理中)                                                                                                 | 缺
+| 12/27          | **Regularization I**                    <br>weight decay, L1, L2 [      ][rg1m]{:target="_blank"}                                                   | Yvon Wong            | NLP (主題整理中)                                                                                                 | 缺                 |  
+| 1/3            | **Regularization II**                   <br>dropout, dropconnect [      ][rg1m]{:target="_blank"}                                                   | 缺                   | NLP (主題整理中)                                                                                                 | 缺                 |
 
 <!-- 12/27 -->
 <!-- 1/3,10,17,24,31 -->
@@ -92,25 +93,25 @@ TopicShare: true
 <!-- Inception -->
 [Iv2p]: https://arxiv.org/abs/1512.00567
 [Iv2c]: ...
-[Iv2m]: ...
+[Iv2m]: https://github.com/pytorchtaipei/article-/blob/master/Inception-v2.pdf
 [Iv3p]: https://arxiv.org/abs/1512.00567
 [Iv4p]: https://arxiv.org/abs/1602.07261
-[I34m]: ...
+[I34m]: https://github.com/pytorchtaipei/article-/blob/master/Google-Inception.pdf
 
 <!-- FPN -->
 [FPNp]: https://arxiv.org/abs/1612.03144
-[FPNc]: ...
-[FPNm]: ... 
+[FPNc]: https://github.com/pytorchtaipei/article-/blob/master/FPN_PyTorchTP_20180913.ipynb
+[FPNm]: https://github.com/pytorchtaipei/article-/blob/master/FPN%20%20OD%209-13.pdf
 
 <!--    -->
 [rtnp]: https://arxiv.org/pdf/1708.02002
 [rtnc]: https://github.com/facebookresearch/Detectron
-[rtnm]: ...
+[rtnm]: https://github.com/pytorchtaipei/article-/blob/master/PyTorch%20Taipei%20_%20Focal%20Loss%20(RetinaNet)%20_%20Sept.%2020th%202018.pdf
 
 <!-- YOLO v2 -->
 [Yv2c]: https://pjreddie.com/darknet/yolov2/
 [Yv2p]: https://arxiv.org/abs/1612.08242
-[Yv2m]: ...
+[Yv2m]: https://github.com/pytorchtaipei/article-/blob/master/YOLO%20v2%20NTU%20927.pdf
 
 <!-- YOLO v3 -->
 [Yv3c]: https://pjreddie.com/darknet/yolo/
@@ -162,6 +163,7 @@ TopicShare: true
 <!-- Math -->
 [m1p]: http://www.deeplearningbook.org/contents/linear_algebra.html
 [m2p]: http://www.deeplearningbook.org/contents/prob.html
+[m2m]: https://github.com/pytorchtaipei/article-/blob/master/prob.pptx
 [m3p]: http://www.deeplearningbook.org/contents/numerical.html
 [m4p]: http://www.deeplearningbook.org/contents/ml.html
 
