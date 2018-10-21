@@ -79,13 +79,13 @@ TopicShare: true
 
 | 11/22          | **Adaptive Methods**                    <br>AdaGrad, AdaDelta, RMSprop[      ][am1p]{:target="_blank"} [      ][am1c]{:target="_blank"} [      ][am1m]{:target="_blank"}      | 缺                   | Regularization for Deep Learning                                                      | 陳彥吉             |
 | 11/29          | **Adaptive Methods with Momentum**      <br>Adam, AdaMax[      ][am2p]{:target="_blank"} [      ][am2c]{:target="_blank"} [      ][am2m]{:target="_blank"}                    | Rose Teng            | Optimization for Training Deep Models                                                 | 陳彥吉             |
-| 11/29          | **Improvements of Adam**                <br>NAdam, AMSGrad[      ][iadp]{:target="_blank"} [      ][iadc]{:target="_blank"} [      ][iadm]{:target="_blank"}                  | 缺                   | NLP (主題整理中)                                                                       | 缺
 | 12/6           | **Layer Normalization**                 <br>[![][p]][lnlp]{:target="_blank"} [      ][lnlc]{:target="_blank"} [      ][lnlm]{:target="_blank"}      | 楊明翰               | Convolutional Networks                                                                                           | 陳彥吉             |
 | 12/13          | **Group Normalization**                 <br>[      ][gnlp]{:target="_blank"} [      ][gnlc]{:target="_blank"} [      ][gnlm]{:target="_blank"}      | 康仕承               | - | - |
 | 12/20          | **Regularization I**                    <br>weight decay, L1, L2 [      ][rg1m]{:target="_blank"}                                                   | Yvon Wong            | Sequence Modeling: Recurrent and Recursive Nets                                                                  | 陳彥吉            |  
 | 12/27          | **Regularization II**                   <br>dropout, dropconnect [      ][rg1m]{:target="_blank"}                                                   | 缺                   | Practical Methodology (To be Continued)                                                                          | 陳彥吉             |
 
 | ---            | **Gradient Descent & Momentum**         <br>BGD, SGD, Mini-batch GD, NAG[      ][gdmp]{:target="_blank"} [      ][gdmc]{:target="_blank"} [      ][gdmm]{:target="_blank"}    | 缺                   |
+| ---            | **Improvements of Adam**                <br>NAdam, AMSGrad[      ][iadp]{:target="_blank"} [      ][iadc]{:target="_blank"} [      ][iadm]{:target="_blank"}                  | 缺                   | - | - |
 <!-- 12/27 -->
 <!-- 1/3,10,17,24,31 -->
 <!-- ntu_schedule http://www.aca.ntu.edu.tw/calendar/calendar107.xls -->
