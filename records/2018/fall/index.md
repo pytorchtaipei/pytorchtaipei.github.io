@@ -75,7 +75,7 @@ TopicShare: true
 | 11/01          | **NasNet II**                           <br>[![][p]][ns2np]{:target="_blank"} [![][c]][ns2nc]{:target="_blank"} [![][m]][ns2nm]{:target="_blank"}  | 陳品彰                | **Machine Learning Basics II**          <br>[![][p]][m4p]{:target="_blank"} [![][m]][m4m]{:target="_blank"}     | 陳彥吉                 |
 
 
-| 11/08          | **MobileNet**                           <br>[![][p]][mbnp]{:target="_blank"} [      ][mbnc]{:target="_blank"} [      ][mbnm]{:target="_blank"}      | 郭宗賢               | **Deep Feedforward Networks**           <br>[![][p]][m5p]{:target="_blank"} [      ][]{:target="_blank"} [      ][m5m]{:target="_blank"}  | 陳彥吉 |
+| 11/08          | **MobileNet**                           <br>[![][p]][mbnp]{:target="_blank"} [      ][mbnc]{:target="_blank"} [      ][mbnm]{:target="_blank"}      | 郭宗賢               | **Deep Feedforward Networks**           <br>[![][p]][m5p]{:target="_blank"} [      ][m5m]{:target="_blank"}  | 陳彥吉 |
 
 | 11/22          | **Adaptive Methods**                    <br>AdaGrad, AdaDelta, RMSprop[      ][am1p]{:target="_blank"} [      ][am1c]{:target="_blank"} [      ][am1m]{:target="_blank"}      | 缺                   | Regularization for Deep Learning                                                      | 陳彥吉             |
 | 11/29          | **Adaptive Methods with Momentum**      <br>Adam, AdaMax[      ][am2p]{:target="_blank"} [      ][am2c]{:target="_blank"} [      ][am2m]{:target="_blank"}                    | Rose Teng            | Optimization for Training Deep Models                                                 | 陳彥吉             |
