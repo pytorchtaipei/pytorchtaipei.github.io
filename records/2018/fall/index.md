@@ -163,12 +163,11 @@ TopicShare: true
 <!-- Math -->
 [m1p]: http://www.deeplearningbook.org/contents/linear_algebra.html
 [m2p]: http://www.deeplearningbook.org/contents/prob.html
-[m2m]: https://github.com/pytorchtaipei/article-/blob/master/prob.pptx
 [m3p]: http://www.deeplearningbook.org/contents/numerical.html
 [m4p]: http://www.deeplearningbook.org/contents/ml.html
 
 [m1m]: ...
-[m2m]: ...
+[m2m]: https://github.com/pytorchtaipei/article-/blob/master/prob.pptx
 [m3m]: ...
 [m4m]: http://www.deeplearningbook.org/
 [m5m]: ...
