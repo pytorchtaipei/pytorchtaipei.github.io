@@ -81,6 +81,7 @@ TopicShare: true
 | 12/20          | **Regularization I**                    <br>weight decay, L1, L2 [      ][rg1m]{:target="_blank"}                                                   | Yvon Wong            | Sequence Modeling: Recurrent and Recursive Nets                                                                  | 陳彥吉            |  
 | 12/27          | **Regularization II**                   <br>dropout, dropconnect [      ][rg1m]{:target="_blank"}                                                   | 缺                   | Practical Methodology (To be Continued)                                                                          | 陳彥吉             |
 | xx/xx          | **Gradient Descent & Momentum**         <br>BGD, SGD, Mini-batch GD, NAG[      ][gdmp]{:target="_blank"} [      ][gdmc]{:target="_blank"} [      ][gdmm]{:target="_blank"}    | 缺                   | - | - |
+
 | xx/xx          | **Improvements of Adam**                <br>NAdam, AMSGrad[      ][iadp]{:target="_blank"} [      ][iadc]{:target="_blank"} [      ][iadm]{:target="_blank"}                  | 缺                   | - | - |
 <!-- 12/27 -->
 <!-- 1/3,10,17,24,31 -->
