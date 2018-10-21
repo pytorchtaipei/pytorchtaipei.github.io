@@ -73,15 +73,19 @@ TopicShare: true
 | 10/18          |  **YOLO v3**                             <br>[![][p]][Yv3p]{:target="_blank"} [![][c]][Yv3c]{:target="_blank"} [      ][Yv3m]{:target="_blank"}     | Allen 吳忠倫         | **Numerical Computation**               <br>[![][p]][m3p]{:target="_blank"} [      ][m3m]{:target="_blank"}     | 陳彥吉              |
 | 10/25          | **NasNet I**                             <br>[![][p]][ns1np]{:target="_blank"} [![][c]][ns1nc]{:target="_blank"} [![][m]][ns1nm]{:target="_blank"} | Kay                  | **Machine Learning Basics I**           <br>[![][p]][m4p]{:target="_blank"} [      ][m4m]{:target="_blank"}     | Rose Teng          |  
 | 11/01          | **NasNet II**                           <br>[![][p]][ns2np]{:target="_blank"} [![][c]][ns2nc]{:target="_blank"} [![][m]][ns2nm]{:target="_blank"}  | 陳品彰                | **Machine Learning Basics II**          <br>[![][p]][m4p]{:target="_blank"} [![][m]][m4m]{:target="_blank"}     | 陳彥吉                 |
+
+
 | 11/08          | **MobileNet**                           <br>[![][p]][mbnp]{:target="_blank"} [      ][mbnc]{:target="_blank"} [      ][mbnm]{:target="_blank"}      | 郭宗賢               | **Deep Feedforward Networks**           <br>[![][p]][m5p]{:target="_blank"} [      ][m5m]{:target="_blank"}  | 陳彥吉 |
+
 | 11/22          | **Adaptive Methods**                    <br>AdaGrad, AdaDelta, RMSprop[      ][am1p]{:target="_blank"} [      ][am1c]{:target="_blank"} [      ][am1m]{:target="_blank"}      | 缺                   | Regularization for Deep Learning                                                      | 陳彥吉             |
 | 11/29          | **Adaptive Methods with Momentum**      <br>Adam, AdaMax[      ][am2p]{:target="_blank"} [      ][am2c]{:target="_blank"} [      ][am2m]{:target="_blank"}                    | Rose Teng            | Optimization for Training Deep Models                                                 | 陳彥吉             |
 | 12/6           | **Layer Normalization**                 <br>[![][p]][lnlp]{:target="_blank"} [      ][lnlc]{:target="_blank"} [      ][lnlm]{:target="_blank"}      | 楊明翰               | Convolutional Networks                                                                                           | 陳彥吉             |
 | 12/13          | **Group Normalization**                 <br>[      ][gnlp]{:target="_blank"} [      ][gnlc]{:target="_blank"} [      ][gnlm]{:target="_blank"}      | 康仕承               | - | - |
 | 12/20          | **Regularization I**                    <br>weight decay, L1, L2 [      ][rg1m]{:target="_blank"}                                                   | Yvon Wong            | Sequence Modeling: Recurrent and Recursive Nets                                                                  | 陳彥吉            |  
 | 12/27          | **Regularization II**                   <br>dropout, dropconnect [      ][rg1m]{:target="_blank"}                                                   | 缺                   | Practical Methodology (To be Continued)                                                                          | 陳彥吉             |
-| 尚未訂日期      | **Gradient Descent & Momentum**         <br>BGD, SGD, Mini-batch GD, NAG[      ][gdmp]{:target="_blank"} [      ][gdmc]{:target="_blank"} [      ][gdmm]{:target="_blank"}    | 缺                   | - | - |
-| 尚未訂日期      | **Improvements of Adam**                <br>NAdam, AMSGrad[      ][iadp]{:target="_blank"} [      ][iadc]{:target="_blank"} [      ][iadm]{:target="_blank"}                  | 缺                   | - | - |
+
+| ---            | **Gradient Descent & Momentum**         <br>BGD, SGD, Mini-batch GD, NAG[      ][gdmp]{:target="_blank"} [      ][gdmc]{:target="_blank"} [      ][gdmm]{:target="_blank"}    | 缺                   |
+| 11/29          | **Improvements of Adam**                <br>NAdam, AMSGrad[      ][iadp]{:target="_blank"} [      ][iadc]{:target="_blank"} [      ][iadm]{:target="_blank"}                  | 缺                   | NLP (主題整理中)                                                                       | 缺
 <!-- 12/27 -->
 <!-- 1/3,10,17,24,31 -->
 <!-- ntu_schedule http://www.aca.ntu.edu.tw/calendar/calendar107.xls -->
