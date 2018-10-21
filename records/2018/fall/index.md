@@ -85,7 +85,7 @@ TopicShare: true
 | 12/27          | **Regularization II**                   <br>dropout, dropconnect [      ][rg1m]{:target="_blank"}                                                   | 缺                   | Practical Methodology (To be Continued)                                                                          | 陳彥吉             |
 
 | ---            | **Gradient Descent & Momentum**         <br>BGD, SGD, Mini-batch GD, NAG[      ][gdmp]{:target="_blank"} [      ][gdmc]{:target="_blank"} [      ][gdmm]{:target="_blank"}    | 缺                   |
-| 11/29          | **Improvements of Adam**                <br>NAdam, AMSGrad[      ][iadp]{:target="_blank"} [      ][iadc]{:target="_blank"} [      ][iadm]{:target="_blank"}                  | 缺                   | NLP (主題整理中)                                                                       | 缺
+| ---            | **Improvements of Adam**                <br>NAdam, AMSGrad[      ][iadp]{:target="_blank"} [      ][iadc]{:target="_blank"} [      ][iadm]{:target="_blank"}                  | 缺                   | - | - |
 <!-- 12/27 -->
 <!-- 1/3,10,17,24,31 -->
 <!-- ntu_schedule http://www.aca.ntu.edu.tw/calendar/calendar107.xls -->
